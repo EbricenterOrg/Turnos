@@ -1,0 +1,10 @@
+c:\users\orochi\documents\visual studio 2010\Projects\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\bin\Debug\Proyecto_Turnos_Cliente.exe
+c:\users\orochi\documents\visual studio 2010\Projects\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\bin\Debug\Proyecto_Turnos_Cliente.pdb
+c:\users\orochi\documents\visual studio 2010\Projects\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\obj\x86\Debug\Proyecto_Turnos_Cliente.frmLogin.resources
+c:\users\orochi\documents\visual studio 2010\Projects\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\obj\x86\Debug\Proyecto_Turnos_Cliente.Properties.Resources.resources
+c:\users\orochi\documents\visual studio 2010\Projects\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\obj\x86\Debug\Proyecto_Turnos_Cliente.csproj.GenerateResource.Cache
+c:\users\orochi\documents\visual studio 2010\Projects\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\obj\x86\Debug\Proyecto_Turnos_Cliente.exe
+c:\users\orochi\documents\visual studio 2010\Projects\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\obj\x86\Debug\Proyecto_Turnos_Cliente.pdb
+C:\Users\Orochi\documents\visual studio 2010\Projects\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\obj\x86\Debug\Proyecto_Turnos_Cliente.frmPrincipal.resources
+C:\Users\Orochi\documents\visual studio 2010\Projects\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\obj\x86\Debug\Proyecto_Turnos_Cliente.frmOpciones.resources
+C:\Users\Orochi\documents\visual studio 2010\Projects\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\obj\x86\Debug\Proyecto_Turnos_Cliente.csprojResolveAssemblyReference.cache
