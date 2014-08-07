@@ -8,3 +8,12 @@ C:\Users\OWNER\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1gr
 C:\Users\OWNER\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfPantallaTurnos.resources
 C:\Users\OWNER\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfMenuTurnos.resources
 C:\Users\OWNER\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfInicioSesion.resources
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\Turnos\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\Turnos\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\Turnos\proyecto1grupo1\proyecto1grupo1\bin\Debug\proyecto1grupo1.exe
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\Turnos\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csprojResolveAssemblyReference.cache
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\Turnos\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfPantallaTurnos.resources
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\Turnos\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfMenuTurnos.resources
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\Turnos\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfInicioSesion.resources
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\Turnos\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.Properties.Resources.resources
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\Turnos\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csproj.GenerateResource.Cache

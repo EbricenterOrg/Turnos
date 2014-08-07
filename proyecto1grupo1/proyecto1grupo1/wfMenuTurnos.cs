@@ -54,7 +54,7 @@ namespace proyecto1grupo1
         private void btnReparacion_Click(object sender, EventArgs e)
         {
             gbIContadorReparacion += 1;
-                 textBox1.AppendText("Your Turn is: R,E," + gbIContadorReparacion);
+                 textBox1.AppendText("Su turno es: R,E," + gbIContadorReparacion);
                  csHablar();
                  MessageBox.Show("Su turno es: RE-" + gbIContadorReparacion);
             textBox1.Text = "";
@@ -65,7 +65,7 @@ namespace proyecto1grupo1
         private void btnAtencion_Click(object sender, EventArgs e)
         {
             gbIContadorAtencion += 1;
-            textBox1.AppendText("Your Turn is: A,T," + gbIContadorAtencion);
+            textBox1.AppendText("Su turno es: A,T," + gbIContadorAtencion);
             csHablar();
             MessageBox.Show("Su turno es: AT- " + gbIContadorAtencion);
             textBox1.Text = "";
