@@ -28,14 +28,16 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmLogin));
             this.txtNombre = new System.Windows.Forms.TextBox();
             this.txtContrasena = new System.Windows.Forms.TextBox();
             this.lblNombre = new System.Windows.Forms.Label();
             this.lblContraseña = new System.Windows.Forms.Label();
-            this.lblImagen = new System.Windows.Forms.Label();
             this.btnIngresar = new System.Windows.Forms.Button();
             this.btnSalir = new System.Windows.Forms.Button();
             this.lblError = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // txtNombre
@@ -56,29 +58,22 @@
             // lblNombre
             // 
             this.lblNombre.AutoSize = true;
-            this.lblNombre.Location = new System.Drawing.Point(175, 35);
+            this.lblNombre.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblNombre.Location = new System.Drawing.Point(178, 35);
             this.lblNombre.Name = "lblNombre";
-            this.lblNombre.Size = new System.Drawing.Size(44, 13);
+            this.lblNombre.Size = new System.Drawing.Size(50, 15);
             this.lblNombre.TabIndex = 2;
-            this.lblNombre.Text = "Nombre";
+            this.lblNombre.Text = "Usuario";
             // 
             // lblContraseña
             // 
             this.lblContraseña.AutoSize = true;
+            this.lblContraseña.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblContraseña.Location = new System.Drawing.Point(178, 85);
             this.lblContraseña.Name = "lblContraseña";
-            this.lblContraseña.Size = new System.Drawing.Size(61, 13);
+            this.lblContraseña.Size = new System.Drawing.Size(70, 15);
             this.lblContraseña.TabIndex = 3;
             this.lblContraseña.Text = "Contraseña";
-            // 
-            // lblImagen
-            // 
-            this.lblImagen.AutoSize = true;
-            this.lblImagen.Location = new System.Drawing.Point(38, 35);
-            this.lblImagen.Name = "lblImagen";
-            this.lblImagen.Size = new System.Drawing.Size(42, 13);
-            this.lblImagen.TabIndex = 4;
-            this.lblImagen.Text = "Imagen";
             // 
             // btnIngresar
             // 
@@ -109,22 +104,34 @@
             this.lblError.Size = new System.Drawing.Size(0, 13);
             this.lblError.TabIndex = 7;
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(12, 26);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(138, 142);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 8;
+            this.pictureBox1.TabStop = false;
+            // 
             // frmLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(470, 184);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.lblError);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.btnIngresar);
-            this.Controls.Add(this.lblImagen);
             this.Controls.Add(this.lblContraseña);
             this.Controls.Add(this.lblNombre);
             this.Controls.Add(this.txtContrasena);
             this.Controls.Add(this.txtNombre);
             this.Name = "frmLogin";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "TURNOS - LOGIN";
             this.Load += new System.EventHandler(this.frmLogin_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -136,10 +143,10 @@
         private System.Windows.Forms.TextBox txtContrasena;
         private System.Windows.Forms.Label lblNombre;
         private System.Windows.Forms.Label lblContraseña;
-        private System.Windows.Forms.Label lblImagen;
         private System.Windows.Forms.Button btnIngresar;
         private System.Windows.Forms.Button btnSalir;
         private System.Windows.Forms.Label lblError;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 

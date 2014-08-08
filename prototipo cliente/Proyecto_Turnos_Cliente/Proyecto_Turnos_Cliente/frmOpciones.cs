@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*Autor: "Jaime Muñoz"
+ *Fecha "31 Julio 2014"
+ *Comentario: "Este form maneja lo que es el control de turnos"
+ *Estandarizado por: "Jessica Castellanos"
+ *Fecha estandarizacion: 7 Agosto 2014*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -8,11 +14,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.Net;
 using System.Net.Sockets;
-/*
-  Autor: "Jaime Muñoz"
-  Fecha: "31/Julio/2014
-  Comentario: Este Form Maneja lo que es el control de turnos
- */ 
+
 namespace Proyecto_Turnos_Cliente
 {
     

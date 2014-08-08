@@ -63,7 +63,7 @@
             // 
             this.lblEscojerArea.AutoSize = true;
             this.lblEscojerArea.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEscojerArea.Location = new System.Drawing.Point(241, 35);
+            this.lblEscojerArea.Location = new System.Drawing.Point(315, 53);
             this.lblEscojerArea.Name = "lblEscojerArea";
             this.lblEscojerArea.Size = new System.Drawing.Size(103, 15);
             this.lblEscojerArea.TabIndex = 4;
@@ -73,7 +73,7 @@
             // 
             this.lblReparacion.AutoSize = true;
             this.lblReparacion.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblReparacion.Location = new System.Drawing.Point(50, 104);
+            this.lblReparacion.Location = new System.Drawing.Point(241, 105);
             this.lblReparacion.Name = "lblReparacion";
             this.lblReparacion.Size = new System.Drawing.Size(81, 15);
             this.lblReparacion.TabIndex = 7;
@@ -83,7 +83,7 @@
             // 
             this.lblVentas.AutoSize = true;
             this.lblVentas.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblVentas.Location = new System.Drawing.Point(251, 104);
+            this.lblVentas.Location = new System.Drawing.Point(439, 105);
             this.lblVentas.Name = "lblVentas";
             this.lblVentas.Size = new System.Drawing.Size(50, 15);
             this.lblVentas.TabIndex = 8;
@@ -93,7 +93,7 @@
             // 
             this.lblAtencionCliente.AutoSize = true;
             this.lblAtencionCliente.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblAtencionCliente.Location = new System.Drawing.Point(31, 243);
+            this.lblAtencionCliente.Location = new System.Drawing.Point(216, 249);
             this.lblAtencionCliente.Name = "lblAtencionCliente";
             this.lblAtencionCliente.Size = new System.Drawing.Size(127, 15);
             this.lblAtencionCliente.TabIndex = 9;
@@ -103,7 +103,7 @@
             // 
             this.lblPagos.AutoSize = true;
             this.lblPagos.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPagos.Location = new System.Drawing.Point(241, 243);
+            this.lblPagos.Location = new System.Drawing.Point(439, 249);
             this.lblPagos.Name = "lblPagos";
             this.lblPagos.Size = new System.Drawing.Size(47, 15);
             this.lblPagos.TabIndex = 10;
@@ -113,7 +113,7 @@
             // 
             this.lblBienvenido.AutoSize = true;
             this.lblBienvenido.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblBienvenido.Location = new System.Drawing.Point(241, 20);
+            this.lblBienvenido.Location = new System.Drawing.Point(328, 24);
             this.lblBienvenido.Name = "lblBienvenido";
             this.lblBienvenido.Size = new System.Drawing.Size(78, 15);
             this.lblBienvenido.TabIndex = 12;
@@ -123,7 +123,7 @@
             // 
             this.lblAyuda.AutoSize = true;
             this.lblAyuda.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblAyuda.Location = new System.Drawing.Point(60, 411);
+            this.lblAyuda.Location = new System.Drawing.Point(696, 419);
             this.lblAyuda.Name = "lblAyuda";
             this.lblAyuda.Size = new System.Drawing.Size(45, 15);
             this.lblAyuda.TabIndex = 13;
@@ -148,7 +148,7 @@
             // pboPublicidad
             // 
             this.pboPublicidad.Image = global::proyecto1grupo1.Properties.Resources.CLAROGIFT_byCristian;
-            this.pboPublicidad.Location = new System.Drawing.Point(489, 0);
+            this.pboPublicidad.Location = new System.Drawing.Point(647, 12);
             this.pboPublicidad.Name = "pboPublicidad";
             this.pboPublicidad.Size = new System.Drawing.Size(125, 108);
             this.pboPublicidad.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -158,7 +158,7 @@
             // btnAyuda
             // 
             this.btnAyuda.Image = global::proyecto1grupo1.Properties.Resources.AYUDA;
-            this.btnAyuda.Location = new System.Drawing.Point(34, 427);
+            this.btnAyuda.Location = new System.Drawing.Point(665, 448);
             this.btnAyuda.Name = "btnAyuda";
             this.btnAyuda.Size = new System.Drawing.Size(107, 102);
             this.btnAyuda.TabIndex = 14;
@@ -167,7 +167,7 @@
             // lblLogoSI
             // 
             this.lblLogoSI.Image = global::proyecto1grupo1.Properties.Resources.CLAROICO;
-            this.lblLogoSI.Location = new System.Drawing.Point(12, 24);
+            this.lblLogoSI.Location = new System.Drawing.Point(9, 24);
             this.lblLogoSI.Name = "lblLogoSI";
             this.lblLogoSI.Size = new System.Drawing.Size(70, 58);
             this.lblLogoSI.TabIndex = 11;
@@ -175,7 +175,7 @@
             // btnPagos
             // 
             this.btnPagos.Image = global::proyecto1grupo1.Properties.Resources.PAGO1;
-            this.btnPagos.Location = new System.Drawing.Point(201, 259);
+            this.btnPagos.Location = new System.Drawing.Point(405, 267);
             this.btnPagos.Name = "btnPagos";
             this.btnPagos.Size = new System.Drawing.Size(123, 112);
             this.btnPagos.TabIndex = 6;
@@ -186,7 +186,7 @@
             // btnAtencion
             // 
             this.btnAtencion.Image = global::proyecto1grupo1.Properties.Resources.SOPORTE;
-            this.btnAtencion.Location = new System.Drawing.Point(30, 259);
+            this.btnAtencion.Location = new System.Drawing.Point(219, 267);
             this.btnAtencion.Name = "btnAtencion";
             this.btnAtencion.Size = new System.Drawing.Size(111, 112);
             this.btnAtencion.TabIndex = 5;
@@ -196,7 +196,7 @@
             // btnVentas
             // 
             this.btnVentas.Image = global::proyecto1grupo1.Properties.Resources.VENTA;
-            this.btnVentas.Location = new System.Drawing.Point(201, 120);
+            this.btnVentas.Location = new System.Drawing.Point(405, 126);
             this.btnVentas.Name = "btnVentas";
             this.btnVentas.Size = new System.Drawing.Size(123, 100);
             this.btnVentas.TabIndex = 3;
@@ -206,7 +206,7 @@
             // btnReparacion
             // 
             this.btnReparacion.Image = global::proyecto1grupo1.Properties.Resources.REPARACION;
-            this.btnReparacion.Location = new System.Drawing.Point(34, 120);
+            this.btnReparacion.Location = new System.Drawing.Point(223, 126);
             this.btnReparacion.Name = "btnReparacion";
             this.btnReparacion.Size = new System.Drawing.Size(107, 100);
             this.btnReparacion.TabIndex = 2;
@@ -218,7 +218,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(627, 574);
+            this.ClientSize = new System.Drawing.Size(784, 562);
             this.Controls.Add(this.pboPublicidad);
             this.Controls.Add(this.lblHora);
             this.Controls.Add(this.btnAyuda);
@@ -237,7 +237,9 @@
             this.Controls.Add(this.textBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "wfMenuTurnos";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Software de Turnos-Grupo#1";
+            this.Load += new System.EventHandler(this.wfMenuTurnos_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pboPublicidad)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -73,7 +73,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = global::Proyecto_Turnos_Cliente.Properties.Resources.solicitar;
+            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
             this.pictureBox2.Location = new System.Drawing.Point(41, 61);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(66, 52);
@@ -83,7 +83,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::Proyecto_Turnos_Cliente.Properties.Resources.Siguiente;
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.InitialImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.InitialImage")));
             this.pictureBox1.Location = new System.Drawing.Point(159, 61);
             this.pictureBox1.Name = "pictureBox1";

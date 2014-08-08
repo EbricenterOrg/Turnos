@@ -5,3 +5,10 @@ c:\users\orochi\documents\visual studio 2010\Projects\Servidor_1\Servidor_1\obj\
 c:\users\orochi\documents\visual studio 2010\Projects\Servidor_1\Servidor_1\obj\x86\Debug\Servidor_1.exe
 c:\users\orochi\documents\visual studio 2010\Projects\Servidor_1\Servidor_1\obj\x86\Debug\Servidor_1.pdb
 C:\Users\Orochi\documents\visual studio 2010\Projects\Servidor_1\Servidor_1\obj\x86\Debug\Servidor_1.frmVentana.resources
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\prototipo servidor\Servidor_1\Servidor_1\obj\x86\Debug\Servidor_1.exe
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\prototipo servidor\Servidor_1\Servidor_1\obj\x86\Debug\Servidor_1.pdb
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\prototipo servidor\Servidor_1\Servidor_1\bin\Debug\Servidor_1.exe
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\prototipo servidor\Servidor_1\Servidor_1\bin\Debug\Servidor_1.pdb
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\prototipo servidor\Servidor_1\Servidor_1\obj\x86\Debug\Servidor_1.frmVentana.resources
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\prototipo servidor\Servidor_1\Servidor_1\obj\x86\Debug\Servidor_1.Properties.Resources.resources
+C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\prototipo servidor\Servidor_1\Servidor_1\obj\x86\Debug\Servidor_1.csproj.GenerateResource.Cache

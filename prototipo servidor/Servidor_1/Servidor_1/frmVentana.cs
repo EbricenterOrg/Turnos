@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*Autor: ""
+ *Fecha " Julio 2014"
+ *Comentario: "Este modulo mostrara el inicio de sesion del usuario"
+ *Estandarizado por: "Jessica Castellanos"
+ *Fecha estandarizacion: 7 Agosto 2014*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

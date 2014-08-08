@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*Autor: "Jaime Muñoz"
+ *Fecha " 31 Julio 2014"
+ *Comentario: "Este Form maneja lo que es el menu principal"
+ *Estandarizado por: "Jessica Castellanos"
+ *Fecha estandarizacion: 7 Agosto 2014*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -6,11 +12,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-/*
-  Autor: "Jaime Muñoz"
-  Fecha: "31/Julio/2014
-  Comentario: Este Form Maneja lo que es El menu principal 
- */ 
+
 namespace Proyecto_Turnos_Cliente
 {
     public partial class frmPrincipal : Form
