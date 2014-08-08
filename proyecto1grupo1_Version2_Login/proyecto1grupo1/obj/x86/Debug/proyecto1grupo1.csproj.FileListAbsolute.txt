@@ -1,0 +1,11 @@
+c:\users\owner\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\bin\Debug\proyecto1grupo1.exe
+c:\users\owner\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\bin\Debug\proyecto1grupo1.pdb
+c:\users\owner\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
+c:\users\owner\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb
+C:\Users\OWNER\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csprojResolveAssemblyReference.cache
+C:\Users\OWNER\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfPantallaTurnos.resources
+C:\Users\OWNER\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfMenuTurnos.resources
+C:\Users\OWNER\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfInicioSesion.resources
+C:\Users\OWNER\documents\visual studio 2010\Projects\proyecto1grupo1\proyecto1grupo1\bin\Debug\MySql.Data.dll
