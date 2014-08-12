@@ -139,14 +139,26 @@
   <data name="1390455920_Cart_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1390455920_Cart_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="btnLogin3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\btnLogin3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="CLARO" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\CLARO.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="custom_settings-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\custom_settings-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="btnLogin3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\btnLogin3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\user.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="1390455889_Currency-_Dollar_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1390455889_Currency-_Dollar_11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gift Claro espera" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gift Claro espera.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user 32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\user 32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="LOGIN" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\LOGIN.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -166,8 +178,17 @@
   <data name="btnLogin" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\btnLogin.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Gift Claro espera" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Gift Claro espera.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Grocery_shopping_service-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Grocery_shopping_service-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="customer_support-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\customer_support-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hand_money_give-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hand_money_give-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1390448522_user_full_add_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1390448522_user_full_add_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="REPARACION" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\REPARACION.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -181,11 +202,17 @@
   <data name="PAGO1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\PAGO1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="sobre-gtk-icono-3931-96" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sobre-gtk-icono-3931-96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="ayuda-a-un-punto-de-consulta-de-icono-7750-96" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ayuda-a-un-punto-de-consulta-de-icono-7750-96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="CLARO_INICIO SESION" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\CLARO_INICIO SESION.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="information_support-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\information_support-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="1390603172_shop-01" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1390603172_shop-01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -193,19 +220,28 @@
   <data name="CLAROICO" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\CLAROICO.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="custom_settings-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\custom_settings-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="btnLogin2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\btnLogin2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="1390603994_user_full_information" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1390603994_user_full_information.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="information_support-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\information_support-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="1390455889_Currency-_Dollar_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1390455889_Currency-_Dollar_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="1390448522_user_full_add_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1390448522_user_full_add_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="hand_money_give-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hand_money_give-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="sobre-gtk-icono-3931-96" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sobre-gtk-icono-3931-96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Grocery_shopping_service-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Grocery_shopping_service-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="about" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\about.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

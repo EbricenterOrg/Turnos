@@ -123,7 +123,7 @@
             // 
             this.lblAyuda.AutoSize = true;
             this.lblAyuda.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblAyuda.Location = new System.Drawing.Point(350, 430);
+            this.lblAyuda.Location = new System.Drawing.Point(350, 415);
             this.lblAyuda.Name = "lblAyuda";
             this.lblAyuda.Size = new System.Drawing.Size(45, 15);
             this.lblAyuda.TabIndex = 13;
@@ -157,10 +157,10 @@
             // 
             // btnAyuda
             // 
-            this.btnAyuda.Image = global::proyecto1grupo1.Properties.Resources.AYUDA;
-            this.btnAyuda.Location = new System.Drawing.Point(312, 448);
+            this.btnAyuda.Image = global::proyecto1grupo1.Properties.Resources.information_support_128;
+            this.btnAyuda.Location = new System.Drawing.Point(319, 433);
             this.btnAyuda.Name = "btnAyuda";
-            this.btnAyuda.Size = new System.Drawing.Size(107, 102);
+            this.btnAyuda.Size = new System.Drawing.Size(121, 121);
             this.btnAyuda.TabIndex = 14;
             this.btnAyuda.UseVisualStyleBackColor = true;
             // 
@@ -174,7 +174,7 @@
             // 
             // btnPagos
             // 
-            this.btnPagos.Image = global::proyecto1grupo1.Properties.Resources.PAGO1;
+            this.btnPagos.Image = global::proyecto1grupo1.Properties.Resources.hand_money_give_128;
             this.btnPagos.Location = new System.Drawing.Point(397, 284);
             this.btnPagos.Name = "btnPagos";
             this.btnPagos.Size = new System.Drawing.Size(123, 112);
@@ -185,7 +185,7 @@
             // 
             // btnAtencion
             // 
-            this.btnAtencion.Image = global::proyecto1grupo1.Properties.Resources.SOPORTE;
+            this.btnAtencion.Image = global::proyecto1grupo1.Properties.Resources.customer_support_128;
             this.btnAtencion.Location = new System.Drawing.Point(226, 284);
             this.btnAtencion.Name = "btnAtencion";
             this.btnAtencion.Size = new System.Drawing.Size(111, 112);
@@ -195,7 +195,8 @@
             // 
             // btnVentas
             // 
-            this.btnVentas.Image = global::proyecto1grupo1.Properties.Resources.VENTA;
+            this.btnVentas.Image = global::proyecto1grupo1.Properties.Resources.Grocery_shopping_service_128;
+            this.btnVentas.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnVentas.Location = new System.Drawing.Point(397, 145);
             this.btnVentas.Name = "btnVentas";
             this.btnVentas.Size = new System.Drawing.Size(123, 100);
@@ -205,7 +206,7 @@
             // 
             // btnReparacion
             // 
-            this.btnReparacion.Image = global::proyecto1grupo1.Properties.Resources.REPARACION;
+            this.btnReparacion.Image = global::proyecto1grupo1.Properties.Resources.custom_settings_128;
             this.btnReparacion.Location = new System.Drawing.Point(230, 145);
             this.btnReparacion.Name = "btnReparacion";
             this.btnReparacion.Size = new System.Drawing.Size(107, 100);

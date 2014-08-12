@@ -192,6 +192,42 @@
   <ItemGroup>
     <None Include="Resources\sobre-gtk-icono-3931-96.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\custom_settings-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grocery_shopping_service-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer_support-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_money_give-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information_support-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\custom_settings-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grocery_shopping_service-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_money_give-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information_support-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

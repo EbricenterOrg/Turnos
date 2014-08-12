@@ -102,11 +102,10 @@
             // 
             // ayudaToolStripMenuItem
             // 
-            this.ayudaToolStripMenuItem.Image = global::proyecto1grupo1.Properties.Resources._1390448505_user_full_settings_1;
-            this.ayudaToolStripMenuItem.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.ayudaToolStripMenuItem.Image = global::proyecto1grupo1.Properties.Resources.custom_settings_32;
             this.ayudaToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.ayudaToolStripMenuItem.Name = "ayudaToolStripMenuItem";
-            this.ayudaToolStripMenuItem.Size = new System.Drawing.Size(91, 109);
+            this.ayudaToolStripMenuItem.Size = new System.Drawing.Size(59, 109);
             this.ayudaToolStripMenuItem.Text = "Reparacion";
             this.ayudaToolStripMenuItem.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.ayudaToolStripMenuItem.TextDirection = System.Windows.Forms.ToolStripTextDirection.Vertical270;
@@ -114,11 +113,10 @@
             // inicioToolStripMenuItem
             // 
             this.inicioToolStripMenuItem.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.inicioToolStripMenuItem.Image = global::proyecto1grupo1.Properties.Resources._1390603994_user_full_information;
-            this.inicioToolStripMenuItem.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.inicioToolStripMenuItem.Image = global::proyecto1grupo1.Properties.Resources.user_32;
             this.inicioToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.inicioToolStripMenuItem.Name = "inicioToolStripMenuItem";
-            this.inicioToolStripMenuItem.Size = new System.Drawing.Size(91, 109);
+            this.inicioToolStripMenuItem.Size = new System.Drawing.Size(59, 109);
             this.inicioToolStripMenuItem.Text = "Atención al cliente";
             this.inicioToolStripMenuItem.TextAlign = System.Drawing.ContentAlignment.BottomLeft;
             this.inicioToolStripMenuItem.TextDirection = System.Windows.Forms.ToolStripTextDirection.Vertical270;
@@ -126,42 +124,39 @@
             // 
             // ventasToolStripMenuItem
             // 
-            this.ventasToolStripMenuItem.Image = global::proyecto1grupo1.Properties.Resources._1390603172_shop_01;
+            this.ventasToolStripMenuItem.Image = global::proyecto1grupo1.Properties.Resources.Grocery_shopping_service_32;
             this.ventasToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.ventasToolStripMenuItem.Name = "ventasToolStripMenuItem";
-            this.ventasToolStripMenuItem.Size = new System.Drawing.Size(91, 109);
+            this.ventasToolStripMenuItem.Size = new System.Drawing.Size(59, 109);
             this.ventasToolStripMenuItem.Text = "Ventas";
             this.ventasToolStripMenuItem.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.ventasToolStripMenuItem.TextDirection = System.Windows.Forms.ToolStripTextDirection.Vertical270;
             // 
             // pagosToolStripMenuItem
             // 
-            this.pagosToolStripMenuItem.Image = global::proyecto1grupo1.Properties.Resources._1390448522_user_full_add_1;
-            this.pagosToolStripMenuItem.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.pagosToolStripMenuItem.Image = global::proyecto1grupo1.Properties.Resources.hand_money_give_32;
             this.pagosToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.pagosToolStripMenuItem.Name = "pagosToolStripMenuItem";
-            this.pagosToolStripMenuItem.Size = new System.Drawing.Size(91, 109);
+            this.pagosToolStripMenuItem.Size = new System.Drawing.Size(59, 109);
             this.pagosToolStripMenuItem.Text = "Pagos";
-            this.pagosToolStripMenuItem.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.pagosToolStripMenuItem.TextDirection = System.Windows.Forms.ToolStripTextDirection.Vertical270;
             // 
             // toolStripMenuItem11
             // 
-            this.toolStripMenuItem11.Image = global::proyecto1grupo1.Properties.Resources.ayuda_a_un_punto_de_consulta_de_icono_7750_96;
+            this.toolStripMenuItem11.Image = global::proyecto1grupo1.Properties.Resources.information_support_32;
             this.toolStripMenuItem11.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.toolStripMenuItem11.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.toolStripMenuItem11.Name = "toolStripMenuItem11";
-            this.toolStripMenuItem11.Size = new System.Drawing.Size(123, 109);
+            this.toolStripMenuItem11.Size = new System.Drawing.Size(59, 109);
             this.toolStripMenuItem11.Text = "Ayuda";
-            this.toolStripMenuItem11.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.toolStripMenuItem11.TextDirection = System.Windows.Forms.ToolStripTextDirection.Vertical270;
             // 
             // toolStripMenuItem12
             // 
-            this.toolStripMenuItem12.Image = global::proyecto1grupo1.Properties.Resources.sobre_gtk_icono_3931_96;
+            this.toolStripMenuItem12.Image = global::proyecto1grupo1.Properties.Resources.about;
             this.toolStripMenuItem12.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.toolStripMenuItem12.Name = "toolStripMenuItem12";
-            this.toolStripMenuItem12.Size = new System.Drawing.Size(123, 109);
+            this.toolStripMenuItem12.Size = new System.Drawing.Size(59, 109);
             this.toolStripMenuItem12.Text = "Acerca de";
             this.toolStripMenuItem12.TextDirection = System.Windows.Forms.ToolStripTextDirection.Vertical270;
             // 
