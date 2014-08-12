@@ -18,3 +18,13 @@ C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDA
 C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\prototipo cliente\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\obj\x86\Debug\Proyecto_Turnos_Cliente.frmOpciones.resources
 C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\prototipo cliente\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\obj\x86\Debug\Proyecto_Turnos_Cliente.Properties.Resources.resources
 C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\prototipo cliente\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\obj\x86\Debug\Proyecto_Turnos_Cliente.csproj.GenerateResource.Cache
+C:\Users\Jessica\Desktop\prototipo cliente\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\obj\x86\Debug\Proyecto_Turnos_Cliente.exe
+C:\Users\Jessica\Desktop\prototipo cliente\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\obj\x86\Debug\Proyecto_Turnos_Cliente.pdb
+C:\Users\Jessica\Desktop\prototipo cliente\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\bin\Debug\Proyecto_Turnos_Cliente.exe
+C:\Users\Jessica\Desktop\prototipo cliente\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\bin\Debug\Proyecto_Turnos_Cliente.pdb
+C:\Users\Jessica\Desktop\prototipo cliente\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\obj\x86\Debug\Proyecto_Turnos_Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Jessica\Desktop\prototipo cliente\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\obj\x86\Debug\Proyecto_Turnos_Cliente.frmLogin.resources
+C:\Users\Jessica\Desktop\prototipo cliente\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\obj\x86\Debug\Proyecto_Turnos_Cliente.frmPrincipal.resources
+C:\Users\Jessica\Desktop\prototipo cliente\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\obj\x86\Debug\Proyecto_Turnos_Cliente.frmOpciones.resources
+C:\Users\Jessica\Desktop\prototipo cliente\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\obj\x86\Debug\Proyecto_Turnos_Cliente.Properties.Resources.resources
+C:\Users\Jessica\Desktop\prototipo cliente\Proyecto_Turnos_Cliente\Proyecto_Turnos_Cliente\obj\x86\Debug\Proyecto_Turnos_Cliente.csproj.GenerateResource.Cache

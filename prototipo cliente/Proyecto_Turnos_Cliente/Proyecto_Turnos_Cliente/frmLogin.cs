@@ -64,5 +64,11 @@ namespace Proyecto_Turnos_Cliente
         {
 
         }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            this.Close();
+
+        }
     }
 }
