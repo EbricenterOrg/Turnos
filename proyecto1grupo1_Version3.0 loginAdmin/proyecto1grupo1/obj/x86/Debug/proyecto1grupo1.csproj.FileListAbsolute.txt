@@ -67,3 +67,5 @@ C:\Users\OWNER\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1g
 C:\Users\OWNER\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfTerminal.resources
 C:\Users\OWNER\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csproj.GenerateResource.Cache
 C:\Users\OWNER\Desktop\proyecto1grupo1_Version2.1_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfAgregarItem.resources
+C:\Users\Jessica\Desktop\Turnos\proyecto1grupo1_Version3.0 loginAdmin\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
+C:\Users\Jessica\Desktop\Turnos\proyecto1grupo1_Version3.0 loginAdmin\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb
