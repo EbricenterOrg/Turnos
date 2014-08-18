@@ -9,3 +9,11 @@ C:\Documents and Settings\Kira\Escritorio\MenuDinamico\MenuDinamico\MenuDinamico
 C:\Documents and Settings\Kira\Escritorio\MenuDinamico\MenuDinamico\MenuDinamico\obj\x86\Debug\MenuDinamico.exe
 C:\Documents and Settings\Kira\Escritorio\MenuDinamico\MenuDinamico\MenuDinamico\obj\x86\Debug\MenuDinamico.pdb
 C:\Documents and Settings\Kira\Escritorio\MenuDinamico\MenuDinamico\MenuDinamico\obj\x86\Debug\MenuDinamico.wfVentanaTicket.resources
+C:\Users\Orochi\Desktop\Turnos\Turnos\Pantalla - Turnos Version 2\MenuDinamico\obj\x86\Debug\MenuDinamico.exe
+C:\Users\Orochi\Desktop\Turnos\Turnos\Pantalla - Turnos Version 2\MenuDinamico\obj\x86\Debug\MenuDinamico.pdb
+C:\Users\Orochi\Desktop\Turnos\Turnos\Pantalla - Turnos Version 2\MenuDinamico\bin\Debug\MenuDinamico.exe
+C:\Users\Orochi\Desktop\Turnos\Turnos\Pantalla - Turnos Version 2\MenuDinamico\bin\Debug\MenuDinamico.pdb
+C:\Users\Orochi\Desktop\Turnos\Turnos\Pantalla - Turnos Version 2\MenuDinamico\obj\x86\Debug\MenuDinamico.csprojResolveAssemblyReference.cache
+C:\Users\Orochi\Desktop\Turnos\Turnos\Pantalla - Turnos Version 2\MenuDinamico\obj\x86\Debug\MenuDinamico.wfVentanaTicket.resources
+C:\Users\Orochi\Desktop\Turnos\Turnos\Pantalla - Turnos Version 2\MenuDinamico\obj\x86\Debug\MenuDinamico.Properties.Resources.resources
+C:\Users\Orochi\Desktop\Turnos\Turnos\Pantalla - Turnos Version 2\MenuDinamico\obj\x86\Debug\MenuDinamico.csproj.GenerateResource.Cache

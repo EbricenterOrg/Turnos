@@ -14,16 +14,15 @@ namespace MenuDinamico
     public partial class wfVentanaTicket : Form
     {
         DataRow Renglon;
-       
+        public event EventHandler e;
         public wfVentanaTicket()
         {
             InitializeComponent();
            
         }
+        System.Windows.Forms.Button[] btnVirtuales = new System.Windows.Forms.Button[9];
 
-       
-
-       
+            
 
  
 
@@ -32,26 +31,23 @@ namespace MenuDinamico
             String Nombre;
             try
             {
-                string S_Cconn = "Server=192.168.0.100; UID=root; Database=bd_turnos; Password=GrupoSGT014";
+                string S_Cconn = "Server=192.168.1.100; UID=root; Database=bd_turnos; Password=GrupoSGT014";
 
                 MySqlConnection SQL_conexion = new MySqlConnection();
                 SQL_conexion.ConnectionString = S_Cconn;
                 SQL_conexion.Open();
                 MySqlCommand SQLcmd = new MySqlCommand("SELECT area_abv, area_nom FROM tabm_area", SQL_conexion);
                 MySqlDataReader dataReader = SQLcmd.ExecuteReader();
-
-                
-
-                System.Windows.Forms.Button[] btnVirtuales = new System.Windows.Forms.Button[9];
-
                 
                 int cont = 0;
 
                 while (dataReader.Read())
                 {
+                    
                     Nombre = dataReader["area_abv"]+"  "+dataReader["area_nom"] + "";
                     btnVirtuales[cont] = new Button();
                     btnVirtuales[cont].Text = Nombre;
+                    btnVirtuales[cont].Name = dataReader["area_abv"].ToString();
                     btnVirtuales[cont].Location = new System.Drawing.Point(50,150  + cont * 210);
                     btnVirtuales[cont].Height = 200;
                     btnVirtuales[cont].Width = 200;
@@ -61,7 +57,10 @@ namespace MenuDinamico
                     btnVirtuales[cont].FlatAppearance.MouseOverBackColor = Color.FromArgb(123,104,238);
                     btnVirtuales[cont].Font = new Font("Arial",18);
                     btnVirtuales[cont].ForeColor = Color.FromArgb(255,255,255);
+                    btnVirtuales[cont].Click += new EventHandler(prueba_Click);
                     
+ 
+
                     this.Controls.Add(btnVirtuales[cont]);
                     cont++;
                   
@@ -78,7 +77,14 @@ namespace MenuDinamico
 
         }
 
-     
+
+        private void prueba_Click(object sender, EventArgs e)
+        {   //obtine las propiedades del boton
+            var boton = (Button)sender;
+            //
+            MessageBox.Show("Hola mundo "+boton.Name);
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             ActualizarTabla();
