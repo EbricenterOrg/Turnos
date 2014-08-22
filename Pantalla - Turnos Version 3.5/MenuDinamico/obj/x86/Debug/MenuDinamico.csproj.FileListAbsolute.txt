@@ -1,0 +1,33 @@
+C:\Documents and Settings\Kira\Escritorio\MenuDinamico\MenuDinamico\MenuDinamico\bin\Debug\MenuDinamico.exe
+C:\Documents and Settings\Kira\Escritorio\MenuDinamico\MenuDinamico\MenuDinamico\bin\Debug\MenuDinamico.pdb
+C:\Documents and Settings\Kira\Escritorio\MenuDinamico\MenuDinamico\MenuDinamico\bin\Debug\csNotificaciones.dll
+C:\Documents and Settings\Kira\Escritorio\MenuDinamico\MenuDinamico\MenuDinamico\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Kira\Escritorio\MenuDinamico\MenuDinamico\MenuDinamico\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kira\Escritorio\MenuDinamico\MenuDinamico\MenuDinamico\obj\x86\Debug\MenuDinamico.Properties.Resources.resources
+C:\Documents and Settings\Kira\Escritorio\MenuDinamico\MenuDinamico\MenuDinamico\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Kira\Escritorio\MenuDinamico\MenuDinamico\MenuDinamico\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Kira\Escritorio\MenuDinamico\MenuDinamico\MenuDinamico\obj\x86\Debug\MenuDinamico.exe
+C:\Documents and Settings\Kira\Escritorio\MenuDinamico\MenuDinamico\MenuDinamico\obj\x86\Debug\MenuDinamico.pdb
+C:\Documents and Settings\Kira\Escritorio\MenuDinamico\MenuDinamico\MenuDinamico\obj\x86\Debug\MenuDinamico.wfVentanaTicket.resources
+C:\Users\kiraPC\Desktop\Pantalla Cliente\MenuDinamico\obj\x86\Debug\MenuDinamico.exe
+C:\Users\kiraPC\Desktop\Pantalla Cliente\MenuDinamico\obj\x86\Debug\MenuDinamico.pdb
+C:\Users\kiraPC\Desktop\Pantalla Cliente\MenuDinamico\bin\Debug\MenuDinamico.exe
+C:\Users\kiraPC\Desktop\Pantalla Cliente\MenuDinamico\bin\Debug\MenuDinamico.pdb
+C:\Users\kiraPC\Desktop\Pantalla Cliente\MenuDinamico\obj\x86\Debug\MenuDinamico.csprojResolveAssemblyReference.cache
+C:\Users\kiraPC\Desktop\Pantalla Cliente\MenuDinamico\obj\x86\Debug\MenuDinamico.wfVentanaTicket.resources
+C:\Users\kiraPC\Desktop\Pantalla Cliente\MenuDinamico\obj\x86\Debug\MenuDinamico.Properties.Resources.resources
+C:\Users\kiraPC\Desktop\Pantalla Cliente\MenuDinamico\obj\x86\Debug\MenuDinamico.csproj.GenerateResource.Cache
+C:\Users\kiraPC\Desktop\Pantalla Cliente\MenuDinamico\bin\Debug\dllConnection.dll
+C:\Users\kiraPC\Desktop\Pantalla Cliente\MenuDinamico\bin\Debug\dllConnection.pdb
+C:\Users\kiraPC\Desktop\Proyecto\Pantalla Cliente\MenuDinamico\obj\x86\Debug\MenuDinamico.exe
+C:\Users\kiraPC\Desktop\Proyecto\Pantalla Cliente\MenuDinamico\obj\x86\Debug\MenuDinamico.pdb
+C:\Users\kiraPC\Desktop\Proyecto\Pantalla Cliente\MenuDinamico\obj\x86\Debug\MenuDinamico.csprojResolveAssemblyReference.cache
+C:\Users\kiraPC\Desktop\Proyecto\Pantalla Cliente\MenuDinamico\obj\x86\Debug\MenuDinamico.wfVentanaTicket.resources
+C:\Users\kiraPC\Desktop\Proyecto\Pantalla Cliente\MenuDinamico\obj\x86\Debug\MenuDinamico.Properties.Resources.resources
+C:\Users\kiraPC\Desktop\Proyecto\Pantalla Cliente\MenuDinamico\obj\x86\Debug\MenuDinamico.csproj.GenerateResource.Cache
+C:\Users\kiraPC\Desktop\Proyecto\Pantalla Cliente\MenuDinamico\bin\Debug\MenuDinamico.exe
+C:\Users\kiraPC\Desktop\Proyecto\Pantalla Cliente\MenuDinamico\bin\Debug\MenuDinamico.pdb
+C:\Users\kiraPC\Desktop\Proyecto\Pantalla Cliente\MenuDinamico\bin\Debug\t_botones.dll
+C:\Users\kiraPC\Desktop\Proyecto\Pantalla Cliente\MenuDinamico\bin\Debug\dllConnection.pdb
+C:\Users\kiraPC\Desktop\Proyecto\Pantalla Cliente\MenuDinamico\bin\Debug\t_botones.pdb
+C:\Users\kiraPC\Desktop\Proyecto\Pantalla Cliente\MenuDinamico\bin\Debug\dllConnection.dll
