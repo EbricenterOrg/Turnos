@@ -1,0 +1,4 @@
+C:\Users\kiraPC\Desktop\Proyecto\Pantalla Cliente\t_botones\bin\Debug\t_botones.dll
+C:\Users\kiraPC\Desktop\Proyecto\Pantalla Cliente\t_botones\bin\Debug\t_botones.pdb
+C:\Users\kiraPC\Desktop\Proyecto\Pantalla Cliente\t_botones\obj\Debug\t_botones.dll
+C:\Users\kiraPC\Desktop\Proyecto\Pantalla Cliente\t_botones\obj\Debug\t_botones.pdb
