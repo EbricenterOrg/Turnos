@@ -1,0 +1,17 @@
+c:\users\orochi\documents\visual studio 2010\Projects\CreacionPDF\CreacionPDF\bin\Debug\CreacionPDF.exe
+c:\users\orochi\documents\visual studio 2010\Projects\CreacionPDF\CreacionPDF\bin\Debug\CreacionPDF.pdb
+c:\users\orochi\documents\visual studio 2010\Projects\CreacionPDF\CreacionPDF\bin\Debug\itextsharp.dll
+c:\users\orochi\documents\visual studio 2010\Projects\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.csprojResolveAssemblyReference.cache
+c:\users\orochi\documents\visual studio 2010\Projects\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.Form1.resources
+c:\users\orochi\documents\visual studio 2010\Projects\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.Properties.Resources.resources
+c:\users\orochi\documents\visual studio 2010\Projects\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.csproj.GenerateResource.Cache
+c:\users\orochi\documents\visual studio 2010\Projects\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.exe
+c:\users\orochi\documents\visual studio 2010\Projects\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.pdb
+C:\Users\Orochi\Desktop\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.exe
+C:\Users\Orochi\Desktop\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.pdb
+C:\Users\Orochi\Desktop\CreacionPDF\CreacionPDF\bin\Debug\CreacionPDF.exe
+C:\Users\Orochi\Desktop\CreacionPDF\CreacionPDF\bin\Debug\CreacionPDF.pdb
+C:\Users\Orochi\Desktop\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.csprojResolveAssemblyReference.cache
+C:\Users\Orochi\Desktop\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.Form1.resources
+C:\Users\Orochi\Desktop\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.Properties.Resources.resources
+C:\Users\Orochi\Desktop\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.csproj.GenerateResource.Cache
