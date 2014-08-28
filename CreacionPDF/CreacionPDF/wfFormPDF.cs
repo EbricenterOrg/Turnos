@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*Autor: "Jessica Castellanos, Jaime Muñoz"
+ *Fecha " Agosto 2014"
+ *Comentario: "Acerca de informacion de creadores"
+ *Estandarizado por: "Jessica Castellanos"
+ *Fecha estandarizacion: 28 Agosto 2014*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

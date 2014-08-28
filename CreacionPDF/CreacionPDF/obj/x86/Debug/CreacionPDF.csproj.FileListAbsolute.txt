@@ -15,3 +15,11 @@ C:\Users\Orochi\Desktop\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.csproj
 C:\Users\Orochi\Desktop\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.Form1.resources
 C:\Users\Orochi\Desktop\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.Properties.Resources.resources
 C:\Users\Orochi\Desktop\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.csproj.GenerateResource.Cache
+C:\Users\Jessica\Desktop\Turnos\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.exe
+C:\Users\Jessica\Desktop\Turnos\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.pdb
+C:\Users\Jessica\Desktop\Turnos\CreacionPDF\CreacionPDF\bin\Debug\CreacionPDF.exe
+C:\Users\Jessica\Desktop\Turnos\CreacionPDF\CreacionPDF\bin\Debug\CreacionPDF.pdb
+C:\Users\Jessica\Desktop\Turnos\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.csprojResolveAssemblyReference.cache
+C:\Users\Jessica\Desktop\Turnos\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.Form1.resources
+C:\Users\Jessica\Desktop\Turnos\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.Properties.Resources.resources
+C:\Users\Jessica\Desktop\Turnos\CreacionPDF\CreacionPDF\obj\x86\Debug\CreacionPDF.csproj.GenerateResource.Cache
