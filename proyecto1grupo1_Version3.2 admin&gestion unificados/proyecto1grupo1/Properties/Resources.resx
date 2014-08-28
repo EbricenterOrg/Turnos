@@ -121,6 +121,9 @@
   <data name="PAGO" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\PAGO.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="cerrar-borrar-la-salida-icono-9027-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cerrar-borrar-la-salida-icono-9027-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="CLARO_INICIO SESION1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\CLARO_INICIO SESION1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -187,6 +190,9 @@
   <data name="hand_money_give-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\hand_money_give-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="about" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\about.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="1390448522_user_full_add_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1390448522_user_full_add_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -241,7 +247,7 @@
   <data name="Grocery_shopping_service-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Grocery_shopping_service-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="about" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\about.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="1407830416_519660-164_QuestionMark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1407830416_519660-164_QuestionMark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

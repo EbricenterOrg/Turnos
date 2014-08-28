@@ -103,3 +103,19 @@ C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 Jaime\proyecto1grupo1\obj\x8
 C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 Jaime\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csproj.GenerateResource.Cache
 C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 unido estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
 C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.1 unido estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\bin\Debug\proyecto1grupo1.exe
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\bin\Debug\proyecto1grupo1.pdb
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\bin\Debug\Gestor de Usuarios.exe
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\bin\Debug\MySql.Data.dll
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\bin\Debug\Gestor de Usuarios.pdb
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csprojResolveAssemblyReference.cache
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfAcercade.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfAgregarItem.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfOpciones.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfPantallaTurnos.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfInicioSesion.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.Properties.Resources.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfTerminal.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1_Version3.2 admin&gestion unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csproj.GenerateResource.Cache

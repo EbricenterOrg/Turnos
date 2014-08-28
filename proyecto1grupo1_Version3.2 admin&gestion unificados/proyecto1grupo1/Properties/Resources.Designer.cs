@@ -133,6 +133,16 @@ namespace proyecto1grupo1.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1407830416_519660_164_QuestionMark {
+            get {
+                object obj = ResourceManager.GetObject("1407830416_519660-164_QuestionMark", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap about {
             get {
                 object obj = ResourceManager.GetObject("about", resourceCulture);
@@ -196,6 +206,16 @@ namespace proyecto1grupo1.Properties {
         internal static System.Drawing.Bitmap btnLogin3 {
             get {
                 object obj = ResourceManager.GetObject("btnLogin3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cerrar_borrar_la_salida_icono_9027_64 {
+            get {
+                object obj = ResourceManager.GetObject("cerrar-borrar-la-salida-icono-9027-64", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

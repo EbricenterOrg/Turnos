@@ -52,15 +52,15 @@ namespace proyecto1grupo1
 
         private void acercaDeToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            wfAcercade frmhijo= new wfAcercade();
-            frmhijo.MdiParent=this;
-            frmhijo.Show();
+           
 
         }
 
         private void toolStripMenuItem12_Click(object sender, EventArgs e)
         {
-             
+            wfAcercade frmhijo = new wfAcercade();
+            frmhijo.MdiParent = this;
+            frmhijo.Show(); 
         }
 
         private void ventaToolStripMenuItem_Click(object sender, EventArgs e)
@@ -133,6 +133,13 @@ namespace proyecto1grupo1
             }
             
                 
+            
+        }
+
+        private void ayudaToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            wfAyuda frmayuda = new wfAyuda();
+            frmayuda.Show();
             
         }
         

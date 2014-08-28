@@ -261,6 +261,12 @@
       <Name>Gestor de Usuarios</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar-borrar-la-salida-icono-9027-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1407830416_519660-164_QuestionMark.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

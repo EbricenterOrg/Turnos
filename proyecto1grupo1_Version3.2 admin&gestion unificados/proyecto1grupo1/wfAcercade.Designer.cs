@@ -35,6 +35,7 @@
             this.lblCristianP = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.lblJessica = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblAcerca
@@ -102,11 +103,23 @@
             this.lblJessica.TabIndex = 6;
             this.lblJessica.Text = "Jessica Castellanos";
             // 
+            // button1
+            // 
+            this.button1.BackgroundImage = global::proyecto1grupo1.Properties.Resources.cerrar_borrar_la_salida_icono_9027_64;
+            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button1.Location = new System.Drawing.Point(229, 3);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(26, 26);
+            this.button1.TabIndex = 7;
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // wfAcercade
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(255, 241);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.lblJessica);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lblCristianP);
@@ -114,7 +127,9 @@
             this.Controls.Add(this.lblJorgeL);
             this.Controls.Add(this.lbldescripcion);
             this.Controls.Add(this.lblAcerca);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "wfAcercade";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Acerca de";
             this.Load += new System.EventHandler(this.wfAcercade_Load);
             this.ResumeLayout(false);
@@ -131,5 +146,6 @@
         private System.Windows.Forms.Label lblCristianP;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label lblJessica;
+        private System.Windows.Forms.Button button1;
     }
 }
