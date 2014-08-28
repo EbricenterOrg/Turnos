@@ -62,34 +62,15 @@ namespace proyecto1grupo1
 
                     }
                     else
-                         {
-
-                             MySqlDataAdapter SQL_datos = new MySqlDataAdapter("Select TP.perm_tipo, TP.usur_id from tabm_usuario TU INNER JOIN tab_permiso TP ON TP.usur_id = TU.id_usuario where TU.usur_pass='"+textBox2.Text+"' and TU.id_usuario= '"+textBox1.Text+"';", SQL_Conexion);
-                             DataTable DT_datos = new DataTable();
-                             SQL_datos.Fill(DT_datos);
-                             MessageBox.Show("Bienvenido al sistema"); 
-                             String S_nombre = DT_datos.Rows[0][0].ToString();
-                           
-                            int i_opc=Convert.ToInt32(S_nombre);
-
+                         {                            
+                             MessageBox.Show("Bienvenido al sistema");                                                   
                                  textBox1.Text = "";
                                  textBox2.Text = "";
                                  SQL_Conexion.Close();
                                  this.Hide();
-                        switch(i_opc)
-                        {
-                            case 1: frmPantalla.Show();  
-                                    break;
-                            case 2: frmTerminal.Show();
-                                    break;
-                            case 3: frmTurno.Show();
-                                    break;
                         
-                        }
-                                 /*this.Hide();
-                                 frm1.Show();
-                                 frm2.Show();*/
-                            
+                                 frmPantalla.Show();                                 
+                           
                            }
                 }
                 catch (MySqlException)

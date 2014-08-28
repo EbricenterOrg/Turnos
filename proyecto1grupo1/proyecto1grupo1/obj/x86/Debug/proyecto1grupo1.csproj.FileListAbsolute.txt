@@ -22,3 +22,5 @@ C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDA
 C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\PROYECTO ESTANDARIZADO\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csproj.GenerateResource.Cache
 C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\Turnos\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
 C:\Users\Jessica\Documents\UMG\8vo semestre\Diseño de sistemas\Turnos\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb

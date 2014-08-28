@@ -71,3 +71,17 @@ C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.2_Login Estandarizado\proyecto1
 C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.2_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.Properties.Resources.resources
 C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.2_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfTerminal.resources
 C:\Users\Orochi\Desktop\proyecto1grupo1_Version2.2_Login Estandarizado\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csproj.GenerateResource.Cache
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version3.1\proyecto1grupo1\bin\Debug\proyecto1grupo1.exe
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version3.1\proyecto1grupo1\bin\Debug\proyecto1grupo1.pdb
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csprojResolveAssemblyReference.cache
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfAcercade.resources
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfAgregarItem.resources
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfOpciones.resources
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfPantallaTurnos.resources
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfMenuTurnos.resources
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfInicioSesion.resources
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.Properties.Resources.resources
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfTerminal.resources
+C:\Users\Orochi\Desktop\Turnos\Turnos\proyecto1grupo1_Version3.1\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csproj.GenerateResource.Cache
