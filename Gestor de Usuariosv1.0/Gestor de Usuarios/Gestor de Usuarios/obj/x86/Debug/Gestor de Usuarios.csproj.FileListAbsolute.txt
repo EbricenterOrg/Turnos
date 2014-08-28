@@ -26,3 +26,6 @@ C:\Users\OWNER\Desktop\Gestor de Usuarios\Gestor de Usuarios\Gestor de Usuarios\
 C:\Users\OWNER\Desktop\Gestor de Usuarios\Gestor de Usuarios\Gestor de Usuarios\bin\Debug\Gestor de Usuarios.exe.config
 C:\Users\OWNER\Desktop\Gestor de Usuarios\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfModificarUsuarios.resources
 C:\Users\OWNER\Desktop\Gestor de Usuarios\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfEliminarUsuario.resources
+C:\Users\Jessica\Desktop\Turnos\Gestor de Usuariosv1.0\Gestor de Usuarios\Gestor de Usuarios\bin\Debug\Gestor de Usuarios.exe.config
+C:\Users\Jessica\Desktop\Turnos\Gestor de Usuariosv1.0\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.exe
+C:\Users\Jessica\Desktop\Turnos\Gestor de Usuariosv1.0\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.pdb

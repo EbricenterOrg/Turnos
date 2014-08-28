@@ -86,14 +86,14 @@
             // panel8
             // 
             this.panel8.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.panel8.Location = new System.Drawing.Point(4, 498);
+            this.panel8.Location = new System.Drawing.Point(82, 502);
             this.panel8.Name = "panel8";
             this.panel8.Size = new System.Drawing.Size(602, 23);
             this.panel8.TabIndex = 56;
             // 
             // btnCancelar
             // 
-            this.btnCancelar.Location = new System.Drawing.Point(417, 276);
+            this.btnCancelar.Location = new System.Drawing.Point(495, 280);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(89, 23);
             this.btnCancelar.TabIndex = 42;
@@ -102,7 +102,7 @@
             // 
             // btnAgregar
             // 
-            this.btnAgregar.Location = new System.Drawing.Point(318, 276);
+            this.btnAgregar.Location = new System.Drawing.Point(396, 280);
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(93, 23);
             this.btnAgregar.TabIndex = 41;
@@ -115,7 +115,7 @@
             this.lblTitulo.AutoSize = true;
             this.lblTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitulo.ForeColor = System.Drawing.SystemColors.AppWorkspace;
-            this.lblTitulo.Location = new System.Drawing.Point(3, 454);
+            this.lblTitulo.Location = new System.Drawing.Point(81, 458);
             this.lblTitulo.Name = "lblTitulo";
             this.lblTitulo.Size = new System.Drawing.Size(279, 39);
             this.lblTitulo.TabIndex = 55;
@@ -123,7 +123,7 @@
             // 
             // txtDireccion
             // 
-            this.txtDireccion.Location = new System.Drawing.Point(12, 260);
+            this.txtDireccion.Location = new System.Drawing.Point(90, 264);
             this.txtDireccion.Name = "txtDireccion";
             this.txtDireccion.Size = new System.Drawing.Size(271, 20);
             this.txtDireccion.TabIndex = 62;
@@ -132,7 +132,7 @@
             // 
             this.panel6.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.panel6.Controls.Add(this.lblDireccion);
-            this.panel6.Location = new System.Drawing.Point(12, 240);
+            this.panel6.Location = new System.Drawing.Point(90, 244);
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(272, 21);
             this.panel6.TabIndex = 73;
@@ -154,7 +154,7 @@
             "1",
             "2",
             "3"});
-            this.cboPermiso.Location = new System.Drawing.Point(12, 213);
+            this.cboPermiso.Location = new System.Drawing.Point(90, 217);
             this.cboPermiso.Name = "cboPermiso";
             this.cboPermiso.Size = new System.Drawing.Size(271, 21);
             this.cboPermiso.TabIndex = 61;
@@ -163,7 +163,7 @@
             // 
             this.panel9.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.panel9.Controls.Add(this.lblPermiso);
-            this.panel9.Location = new System.Drawing.Point(12, 188);
+            this.panel9.Location = new System.Drawing.Point(90, 192);
             this.panel9.Name = "panel9";
             this.panel9.Size = new System.Drawing.Size(272, 21);
             this.panel9.TabIndex = 72;
@@ -179,14 +179,14 @@
             // 
             // txtIdUsuario
             // 
-            this.txtIdUsuario.Location = new System.Drawing.Point(12, 26);
+            this.txtIdUsuario.Location = new System.Drawing.Point(90, 30);
             this.txtIdUsuario.Name = "txtIdUsuario";
             this.txtIdUsuario.Size = new System.Drawing.Size(271, 20);
             this.txtIdUsuario.TabIndex = 57;
             // 
             // txtPass
             // 
-            this.txtPass.Location = new System.Drawing.Point(12, 399);
+            this.txtPass.Location = new System.Drawing.Point(90, 403);
             this.txtPass.Name = "txtPass";
             this.txtPass.PasswordChar = '*';
             this.txtPass.Size = new System.Drawing.Size(271, 20);
@@ -194,35 +194,35 @@
             // 
             // txtNombre
             // 
-            this.txtNombre.Location = new System.Drawing.Point(12, 76);
+            this.txtNombre.Location = new System.Drawing.Point(90, 80);
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(271, 20);
             this.txtNombre.TabIndex = 58;
             // 
             // txtApellido
             // 
-            this.txtApellido.Location = new System.Drawing.Point(12, 117);
+            this.txtApellido.Location = new System.Drawing.Point(90, 121);
             this.txtApellido.Name = "txtApellido";
             this.txtApellido.Size = new System.Drawing.Size(271, 20);
             this.txtApellido.TabIndex = 59;
             // 
             // txtApeCasada
             // 
-            this.txtApeCasada.Location = new System.Drawing.Point(11, 162);
+            this.txtApeCasada.Location = new System.Drawing.Point(89, 166);
             this.txtApeCasada.Name = "txtApeCasada";
             this.txtApeCasada.Size = new System.Drawing.Size(271, 20);
             this.txtApeCasada.TabIndex = 60;
             // 
             // txtTelefono
             // 
-            this.txtTelefono.Location = new System.Drawing.Point(12, 306);
+            this.txtTelefono.Location = new System.Drawing.Point(90, 310);
             this.txtTelefono.Name = "txtTelefono";
             this.txtTelefono.Size = new System.Drawing.Size(271, 20);
             this.txtTelefono.TabIndex = 63;
             // 
             // txtCorreo
             // 
-            this.txtCorreo.Location = new System.Drawing.Point(11, 352);
+            this.txtCorreo.Location = new System.Drawing.Point(89, 356);
             this.txtCorreo.Name = "txtCorreo";
             this.txtCorreo.Size = new System.Drawing.Size(271, 20);
             this.txtCorreo.TabIndex = 64;
@@ -231,7 +231,7 @@
             // 
             this.panel7.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.panel7.Controls.Add(this.lblPass);
-            this.panel7.Location = new System.Drawing.Point(12, 374);
+            this.panel7.Location = new System.Drawing.Point(90, 378);
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(272, 21);
             this.panel7.TabIndex = 71;
@@ -249,7 +249,7 @@
             // 
             this.panel5.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.panel5.Controls.Add(this.lblCorreo);
-            this.panel5.Location = new System.Drawing.Point(12, 329);
+            this.panel5.Location = new System.Drawing.Point(90, 333);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(272, 21);
             this.panel5.TabIndex = 70;
@@ -267,7 +267,7 @@
             // 
             this.panel4.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.panel4.Controls.Add(this.lblTelefono);
-            this.panel4.Location = new System.Drawing.Point(12, 286);
+            this.panel4.Location = new System.Drawing.Point(90, 290);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(272, 21);
             this.panel4.TabIndex = 69;
@@ -285,7 +285,7 @@
             // 
             this.panel3.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.panel3.Controls.Add(this.lblApeCasado);
-            this.panel3.Location = new System.Drawing.Point(12, 139);
+            this.panel3.Location = new System.Drawing.Point(90, 143);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(272, 21);
             this.panel3.TabIndex = 68;
@@ -303,7 +303,7 @@
             // 
             this.panel2.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.panel2.Controls.Add(this.lblApellido);
-            this.panel2.Location = new System.Drawing.Point(12, 94);
+            this.panel2.Location = new System.Drawing.Point(90, 98);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(272, 21);
             this.panel2.TabIndex = 67;
@@ -322,7 +322,7 @@
             this.pnl1.AutoScroll = true;
             this.pnl1.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.pnl1.Controls.Add(this.lblNombre);
-            this.pnl1.Location = new System.Drawing.Point(12, 52);
+            this.pnl1.Location = new System.Drawing.Point(90, 56);
             this.pnl1.Name = "pnl1";
             this.pnl1.Size = new System.Drawing.Size(272, 21);
             this.pnl1.TabIndex = 66;
@@ -350,7 +350,7 @@
             this.panel1.AutoScroll = true;
             this.panel1.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.panel1.Controls.Add(this.lblID);
-            this.panel1.Location = new System.Drawing.Point(12, -1);
+            this.panel1.Location = new System.Drawing.Point(90, 3);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(272, 21);
             this.panel1.TabIndex = 74;
@@ -360,7 +360,7 @@
             this.pboUsuario.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.pboUsuario.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pboUsuario.Image = ((System.Drawing.Image)(resources.GetObject("pboUsuario.Image")));
-            this.pboUsuario.Location = new System.Drawing.Point(318, 8);
+            this.pboUsuario.Location = new System.Drawing.Point(396, 12);
             this.pboUsuario.Name = "pboUsuario";
             this.pboUsuario.Size = new System.Drawing.Size(188, 232);
             this.pboUsuario.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
@@ -371,8 +371,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(603, 521);
+            this.BackColor = System.Drawing.SystemColors.Control;
+            this.ClientSize = new System.Drawing.Size(784, 562);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.txtDireccion);
             this.Controls.Add(this.panel6);
@@ -399,6 +399,7 @@
             this.Controls.Add(this.lblCuenta);
             this.Name = "wfModificarUsuarios";
             this.Text = "Modificar Cuenta";
+            this.Load += new System.EventHandler(this.wfModificarUsuarios_Load);
             this.panel6.ResumeLayout(false);
             this.panel6.PerformLayout();
             this.panel9.ResumeLayout(false);

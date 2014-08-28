@@ -66,17 +66,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FrmAdministracion.cs">
+    <Compile Include="wfAdministracion.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmAdministracion.Designer.cs">
-      <DependentUpon>FrmAdministracion.cs</DependentUpon>
+    <Compile Include="wfAdministracion.Designer.cs">
+      <DependentUpon>wfAdministracion.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmAgregarUsuarios.cs">
+    <Compile Include="wfAgregarUsuarios.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmAgregarUsuarios.Designer.cs">
-      <DependentUpon>FrmAgregarUsuarios.cs</DependentUpon>
+    <Compile Include="wfAgregarUsuarios.Designer.cs">
+      <DependentUpon>wfAgregarUsuarios.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -92,11 +92,11 @@
     <Compile Include="wfModificarUsuarios.Designer.cs">
       <DependentUpon>wfModificarUsuarios.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="FrmAdministracion.resx">
-      <DependentUpon>FrmAdministracion.cs</DependentUpon>
+    <EmbeddedResource Include="wfAdministracion.resx">
+      <DependentUpon>wfAdministracion.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmAgregarUsuarios.resx">
-      <DependentUpon>FrmAgregarUsuarios.cs</DependentUpon>
+    <EmbeddedResource Include="wfAgregarUsuarios.resx">
+      <DependentUpon>wfAgregarUsuarios.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

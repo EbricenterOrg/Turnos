@@ -15,7 +15,7 @@ namespace Gestor_de_Usuarios
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmAdministracion());
+            Application.Run(new wfAdministracion());
         }
     }
 }

@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*Autor: "Cristian Portillo"
+ *Fecha " Agosto 2014"
+ *Comentario: "Modulo administrador"
+ *Estandarizado por: "Jessica Castellanos"
+ *Fecha estandarizacion: 27 Agosto 2014*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -10,13 +16,13 @@ using MySql.Data.MySqlClient;
 
 namespace Gestor_de_Usuarios
 {
-    public partial class FrmAdministracion : Form
+    public partial class wfAdministracion : Form
     {
         private MySqlConnection SQL_Conexion = new MySqlConnection();
         private String connectionString;
        
 
-        public FrmAdministracion()
+        public wfAdministracion()
         {
             InitializeComponent();
         }
@@ -25,7 +31,7 @@ namespace Gestor_de_Usuarios
 
         private void btnAgregarUser_Click(object sender, EventArgs e)
         {
-            FrmAgregarUsuarios FrmNuevoUsuario = new FrmAgregarUsuarios();
+            wfAgregarUsuarios FrmNuevoUsuario = new wfAgregarUsuarios();
             FrmNuevoUsuario.Show();
         }
 
@@ -90,6 +96,11 @@ namespace Gestor_de_Usuarios
             {
                 MessageBox.Show("Ocurrio un error" + ei.Message);
             }
+        }
+
+        private void wfAdministracion_Load(object sender, EventArgs e)
+        {
+
         }
 
        

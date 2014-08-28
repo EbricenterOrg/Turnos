@@ -46,7 +46,7 @@
             this.lblTitulo.AutoSize = true;
             this.lblTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitulo.ForeColor = System.Drawing.SystemColors.AppWorkspace;
-            this.lblTitulo.Location = new System.Drawing.Point(12, 402);
+            this.lblTitulo.Location = new System.Drawing.Point(97, 422);
             this.lblTitulo.Name = "lblTitulo";
             this.lblTitulo.Size = new System.Drawing.Size(264, 39);
             this.lblTitulo.TabIndex = 77;
@@ -54,7 +54,7 @@
             // 
             // btnCancelar
             // 
-            this.btnCancelar.Location = new System.Drawing.Point(464, 270);
+            this.btnCancelar.Location = new System.Drawing.Point(549, 290);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(89, 23);
             this.btnCancelar.TabIndex = 76;
@@ -63,7 +63,7 @@
             // 
             // btnEliminar
             // 
-            this.btnEliminar.Location = new System.Drawing.Point(365, 270);
+            this.btnEliminar.Location = new System.Drawing.Point(450, 290);
             this.btnEliminar.Name = "btnEliminar";
             this.btnEliminar.Size = new System.Drawing.Size(93, 23);
             this.btnEliminar.TabIndex = 75;
@@ -76,7 +76,7 @@
             this.pboUsuario.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.pboUsuario.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pboUsuario.Image = ((System.Drawing.Image)(resources.GetObject("pboUsuario.Image")));
-            this.pboUsuario.Location = new System.Drawing.Point(374, 22);
+            this.pboUsuario.Location = new System.Drawing.Point(459, 42);
             this.pboUsuario.Name = "pboUsuario";
             this.pboUsuario.Size = new System.Drawing.Size(188, 232);
             this.pboUsuario.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
@@ -86,7 +86,7 @@
             // panel8
             // 
             this.panel8.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.panel8.Location = new System.Drawing.Point(0, 444);
+            this.panel8.Location = new System.Drawing.Point(85, 464);
             this.panel8.Name = "panel8";
             this.panel8.Size = new System.Drawing.Size(607, 23);
             this.panel8.TabIndex = 94;
@@ -105,14 +105,14 @@
             this.panel1.AutoScroll = true;
             this.panel1.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.panel1.Controls.Add(this.lblID);
-            this.panel1.Location = new System.Drawing.Point(38, 22);
+            this.panel1.Location = new System.Drawing.Point(123, 42);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(272, 21);
             this.panel1.TabIndex = 96;
             // 
             // txtIdUsuario
             // 
-            this.txtIdUsuario.Location = new System.Drawing.Point(38, 49);
+            this.txtIdUsuario.Location = new System.Drawing.Point(123, 69);
             this.txtIdUsuario.Name = "txtIdUsuario";
             this.txtIdUsuario.Size = new System.Drawing.Size(271, 20);
             this.txtIdUsuario.TabIndex = 95;
@@ -121,7 +121,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(608, 469);
+            this.ClientSize = new System.Drawing.Size(784, 562);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.txtIdUsuario);
             this.Controls.Add(this.panel8);
@@ -131,6 +131,7 @@
             this.Controls.Add(this.pboUsuario);
             this.Name = "wfEliminarUsuario";
             this.Text = "Eliminar Usuario";
+            this.Load += new System.EventHandler(this.wfEliminarUsuario_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pboUsuario)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

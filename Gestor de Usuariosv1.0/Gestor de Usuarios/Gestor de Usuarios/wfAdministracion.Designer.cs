@@ -1,6 +1,6 @@
 ﻿namespace Gestor_de_Usuarios
 {
-    partial class FrmAdministracion
+    partial class wfAdministracion
     {
         /// <summary>
         /// Variable del diseñador requerida.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmAdministracion));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(wfAdministracion));
             this.tctAdministracion = new System.Windows.Forms.TabControl();
             this.tpgUsuarios = new System.Windows.Forms.TabPage();
             this.label12 = new System.Windows.Forms.Label();
@@ -108,7 +108,7 @@
             this.tctAdministracion.Location = new System.Drawing.Point(2, 58);
             this.tctAdministracion.Name = "tctAdministracion";
             this.tctAdministracion.SelectedIndex = 0;
-            this.tctAdministracion.Size = new System.Drawing.Size(789, 510);
+            this.tctAdministracion.Size = new System.Drawing.Size(800, 600);
             this.tctAdministracion.TabIndex = 1;
             // 
             // tpgUsuarios
@@ -121,7 +121,7 @@
             this.tpgUsuarios.Location = new System.Drawing.Point(4, 25);
             this.tpgUsuarios.Name = "tpgUsuarios";
             this.tpgUsuarios.Padding = new System.Windows.Forms.Padding(3);
-            this.tpgUsuarios.Size = new System.Drawing.Size(781, 481);
+            this.tpgUsuarios.Size = new System.Drawing.Size(792, 571);
             this.tpgUsuarios.TabIndex = 0;
             this.tpgUsuarios.Text = "Usuarios";
             // 
@@ -393,7 +393,7 @@
             this.tpgEstadisticas.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.tpgEstadisticas.Location = new System.Drawing.Point(4, 25);
             this.tpgEstadisticas.Name = "tpgEstadisticas";
-            this.tpgEstadisticas.Size = new System.Drawing.Size(781, 481);
+            this.tpgEstadisticas.Size = new System.Drawing.Size(792, 571);
             this.tpgEstadisticas.TabIndex = 4;
             this.tpgEstadisticas.Text = "Informes y Estadisticas";
             // 
@@ -404,7 +404,7 @@
             this.tpgBitacora.Controls.Add(this.panel2);
             this.tpgBitacora.Location = new System.Drawing.Point(4, 25);
             this.tpgBitacora.Name = "tpgBitacora";
-            this.tpgBitacora.Size = new System.Drawing.Size(781, 481);
+            this.tpgBitacora.Size = new System.Drawing.Size(792, 571);
             this.tpgBitacora.TabIndex = 2;
             this.tpgBitacora.Text = "Registro de Actividades";
             // 
@@ -522,7 +522,7 @@
             this.tpgSesiones.Location = new System.Drawing.Point(4, 25);
             this.tpgSesiones.Name = "tpgSesiones";
             this.tpgSesiones.Padding = new System.Windows.Forms.Padding(3);
-            this.tpgSesiones.Size = new System.Drawing.Size(781, 481);
+            this.tpgSesiones.Size = new System.Drawing.Size(792, 571);
             this.tpgSesiones.TabIndex = 1;
             this.tpgSesiones.Text = "Sesiones";
             // 
@@ -536,7 +536,7 @@
             this.tpgAreas.Location = new System.Drawing.Point(4, 25);
             this.tpgAreas.Name = "tpgAreas";
             this.tpgAreas.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.tpgAreas.Size = new System.Drawing.Size(781, 481);
+            this.tpgAreas.Size = new System.Drawing.Size(792, 571);
             this.tpgAreas.TabIndex = 5;
             this.tpgAreas.Text = "Areas";
             // 
@@ -778,15 +778,16 @@
             this.dataGridView1.Size = new System.Drawing.Size(574, 293);
             this.dataGridView1.TabIndex = 3;
             // 
-            // FrmAdministracion
+            // wfAdministracion
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.ClientSize = new System.Drawing.Size(792, 566);
+            this.BackColor = System.Drawing.SystemColors.Control;
+            this.ClientSize = new System.Drawing.Size(784, 562);
             this.Controls.Add(this.tctAdministracion);
-            this.Name = "FrmAdministracion";
+            this.Name = "wfAdministracion";
             this.Text = "Administración";
+            this.Load += new System.EventHandler(this.wfAdministracion_Load);
             this.tctAdministracion.ResumeLayout(false);
             this.tpgUsuarios.ResumeLayout(false);
             this.tpgUsuarios.PerformLayout();

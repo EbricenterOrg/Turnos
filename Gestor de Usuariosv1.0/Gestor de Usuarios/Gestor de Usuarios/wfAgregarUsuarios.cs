@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*Autor: "Cristian Portillo"
+ *Fecha " Agosto 2014"
+ *Comentario: "Modulo agregar usuarios"
+ *Estandarizado por: "Jessica Castellanos"
+ *Fecha estandarizacion: 27 Agosto 2014*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -11,13 +17,13 @@ using MySql.Data.MySqlClient;
 
 namespace Gestor_de_Usuarios
 {
-    public partial class FrmAgregarUsuarios : Form
+    public partial class wfAgregarUsuarios : Form
     {
         private MySqlConnection SQL_Conexion = new MySqlConnection();
         private String connectionString;
         private MySqlCommand SQL_cmd;
 
-        public FrmAgregarUsuarios()
+        public wfAgregarUsuarios()
         {
             InitializeComponent();
         }

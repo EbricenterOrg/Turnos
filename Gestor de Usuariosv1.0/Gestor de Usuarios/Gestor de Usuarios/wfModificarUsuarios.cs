@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*Autor: "Cristian Portillo"
+ *Fecha " Agosto 2014"
+ *Comentario: "Modulo modificar usuarios"
+ *Estandarizado por: "Jessica Castellanos"
+ *Fecha estandarizacion: 27 Agosto 2014*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -51,6 +57,11 @@ namespace Gestor_de_Usuarios
             {
                 MessageBox.Show("Revise sus datos, ingreso no completado ", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }*/    
+        }
+
+        private void wfModificarUsuarios_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
