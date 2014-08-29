@@ -98,7 +98,7 @@ namespace proyecto1grupo1
                 Object obj = SQL_cmd.ExecuteScalar();
                 if (obj != null)
                 {
-                    this.ayudaToolStripMenuItem.DropDown.Items.Add(obj.ToString());
+                    this.tsmiAdmin.DropDown.Items.Add(obj.ToString());
                     i_contadorFilas = i_contadorFilas + 1;
                     SQL_Conexion.Close();
                 }

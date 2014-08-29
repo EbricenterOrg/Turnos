@@ -16,7 +16,7 @@ namespace proyecto1grupo1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new wfPantallaTurnos());
+            Application.Run(new wfInicioSesion());
         }
     }
 }

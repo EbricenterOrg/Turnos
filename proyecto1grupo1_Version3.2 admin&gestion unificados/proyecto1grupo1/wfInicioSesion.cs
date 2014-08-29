@@ -38,7 +38,7 @@ namespace proyecto1grupo1
 
         private void button1_Click(object sender, EventArgs e)
         {        
-
+            
             wfInicioSesion frmSesion = new wfInicioSesion();
             wfPantallaTurnos frmPantalla = new wfPantallaTurnos();
            
@@ -86,10 +86,19 @@ namespace proyecto1grupo1
                             SQL_cmd = new MySqlCommand("SELECT MAX(id_sesion)  FROM tabm_sesion where usur_id='"+txt_usuario.Text+"'", SQL_Conexion);
                             Object Oobj = SQL_cmd.ExecuteScalar();
 
-                            SQL_cmd = new MySqlCommand("select usur_nom,usur_ape from tabm_usuario WHERE id_usuario='" + txt_usuario.Text + "'", SQL_Conexion);
-                            MySqlDataReader dataReader =  SQL_cmd.ExecuteReader(); ;   
-                        
+                           
+
+                            SQL_cmd = new MySqlCommand("select usur_nom,usur_ape,usur_permiso from tabm_usuario WHERE id_usuario='" + txt_usuario.Text + "'", SQL_Conexion);
+                            MySqlDataReader dataReader =  SQL_cmd.ExecuteReader();
+
+                          
                             while (dataReader.Read()){
+                                String sFlag = dataReader["usur_permiso"] + "";
+                                if (sFlag != "1")
+                                {
+                                    frmPantalla.tsmiAdmin.Enabled = false;
+                                } 
+                        
                                 frmPantalla.tSlblNombre.Text = dataReader["usur_nom"] + " " + dataReader["usur_ape"];
                             }
 
