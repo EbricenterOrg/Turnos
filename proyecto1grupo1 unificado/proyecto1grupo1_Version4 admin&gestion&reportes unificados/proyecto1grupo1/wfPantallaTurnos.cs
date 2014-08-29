@@ -138,8 +138,8 @@ namespace proyecto1grupo1
 
         private void ayudaToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-           // wfAyuda frmayuda = new wfAyuda();
-          //  frmayuda.Show();
+           wfAyuda frmayuda = new wfAyuda();
+           frmayuda.Show();
             
         }
         

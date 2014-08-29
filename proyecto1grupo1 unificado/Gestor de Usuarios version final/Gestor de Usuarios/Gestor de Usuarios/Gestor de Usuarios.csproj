@@ -136,7 +136,14 @@
       <DependentUpon>wfModificarUsuarios.cs</DependentUpon>
     </Compile>
     <Compile Include="wfPantallaTurnos.cs" />
+    <Compile Include="wfReporteareasmasvisistadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfReporteareasmasvisistadas.Designer.cs">
+      <DependentUpon>wfReporteareasmasvisistadas.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="rpAreasvisiadas.rdlc" />
     <EmbeddedResource Include="wfAdministracion.resx">
       <DependentUpon>wfAdministracion.cs</DependentUpon>
     </EmbeddedResource>
@@ -173,6 +180,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="wfModificarUsuarios.resx">
       <DependentUpon>wfModificarUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfReporteareasmasvisistadas.resx">
+      <DependentUpon>wfReporteareasmasvisistadas.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="app.config" />
     <None Include="dt_dataset.xsc">

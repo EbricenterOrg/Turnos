@@ -1,6 +1,6 @@
 ﻿namespace Gestor_de_Usuarios
 {
-    partial class wfDiario
+    partial class wfReporteareasmasvisistadas
     {
         /// <summary>
         /// Required designer variable.
@@ -30,53 +30,53 @@
         {
             this.components = new System.ComponentModel.Container();
             Microsoft.Reporting.WinForms.ReportDataSource reportDataSource1 = new Microsoft.Reporting.WinForms.ReportDataSource();
-            this.DataTable1BindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.dt_dataset = new Gestor_de_Usuarios.dt_dataset();
             this.reportViewer1 = new Microsoft.Reporting.WinForms.ReportViewer();
-            this.DataTable1TableAdapter = new Gestor_de_Usuarios.dt_datasetTableAdapters.DataTable1TableAdapter();
-            ((System.ComponentModel.ISupportInitialize)(this.DataTable1BindingSource)).BeginInit();
+            this.dt_dataset = new Gestor_de_Usuarios.dt_dataset();
+            this.DataTable2BindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.DataTable2TableAdapter = new Gestor_de_Usuarios.dt_datasetTableAdapters.DataTable2TableAdapter();
             ((System.ComponentModel.ISupportInitialize)(this.dt_dataset)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.DataTable2BindingSource)).BeginInit();
             this.SuspendLayout();
             // 
-            // DataTable1BindingSource
+            // reportViewer1
             // 
-            this.DataTable1BindingSource.DataMember = "DataTable1";
-            this.DataTable1BindingSource.DataSource = this.dt_dataset;
+            this.reportViewer1.Dock = System.Windows.Forms.DockStyle.Fill;
+            reportDataSource1.Name = "DataSet1";
+            reportDataSource1.Value = this.DataTable2BindingSource;
+            this.reportViewer1.LocalReport.DataSources.Add(reportDataSource1);
+            this.reportViewer1.LocalReport.ReportEmbeddedResource = "Gestor_de_Usuarios.rpAreasvisiadas.rdlc";
+            this.reportViewer1.Location = new System.Drawing.Point(0, 0);
+            this.reportViewer1.Name = "reportViewer1";
+            this.reportViewer1.Size = new System.Drawing.Size(800, 600);
+            this.reportViewer1.TabIndex = 0;
             // 
             // dt_dataset
             // 
             this.dt_dataset.DataSetName = "dt_dataset";
             this.dt_dataset.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
-            // reportViewer1
+            // DataTable2BindingSource
             // 
-            this.reportViewer1.Dock = System.Windows.Forms.DockStyle.Fill;
-            reportDataSource1.Name = "DataSet1";
-            reportDataSource1.Value = this.DataTable1BindingSource;
-            this.reportViewer1.LocalReport.DataSources.Add(reportDataSource1);
-            this.reportViewer1.LocalReport.ReportEmbeddedResource = "Gestor_de_Usuarios.Report1.rdlc";
-            this.reportViewer1.Location = new System.Drawing.Point(0, 0);
-            this.reportViewer1.Name = "reportViewer1";
-            this.reportViewer1.Size = new System.Drawing.Size(784, 562);
-            this.reportViewer1.TabIndex = 0;
+            this.DataTable2BindingSource.DataMember = "DataTable2";
+            this.DataTable2BindingSource.DataSource = this.dt_dataset;
             // 
-            // DataTable1TableAdapter
+            // DataTable2TableAdapter
             // 
-            this.DataTable1TableAdapter.ClearBeforeFill = true;
+            this.DataTable2TableAdapter.ClearBeforeFill = true;
             // 
-            // wfDiario
+            // wfReporteareasmasvisistadas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(784, 562);
+            this.ClientSize = new System.Drawing.Size(800, 600);
             this.Controls.Add(this.reportViewer1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
-            this.Name = "wfDiario";
+            this.Name = "wfReporteareasmasvisistadas";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "wfDiario";
-            this.Load += new System.EventHandler(this.wfDiario_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.DataTable1BindingSource)).EndInit();
+            this.Text = "wfReporteareasmasvisistadas";
+            this.Load += new System.EventHandler(this.wfReporteareasmasvisistadas_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dt_dataset)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.DataTable2BindingSource)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -84,8 +84,8 @@
         #endregion
 
         private Microsoft.Reporting.WinForms.ReportViewer reportViewer1;
-        private System.Windows.Forms.BindingSource DataTable1BindingSource;
+        private System.Windows.Forms.BindingSource DataTable2BindingSource;
         private dt_dataset dt_dataset;
-        private dt_datasetTableAdapters.DataTable1TableAdapter DataTable1TableAdapter;
+        private dt_datasetTableAdapters.DataTable2TableAdapter DataTable2TableAdapter;
     }
 }

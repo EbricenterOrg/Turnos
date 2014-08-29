@@ -45,12 +45,25 @@
             this.dgvUsuarios = new System.Windows.Forms.DataGridView();
             this.pnlMenuUsuario = new System.Windows.Forms.Panel();
             this.btnAyuda = new System.Windows.Forms.Button();
+            this.btnBuscarUsuario = new System.Windows.Forms.Button();
             this.txbBuscarUsuario = new System.Windows.Forms.TextBox();
+            this.btnActualizar = new System.Windows.Forms.Button();
+            this.btnEliminar = new System.Windows.Forms.Button();
+            this.btnModificarUser = new System.Windows.Forms.Button();
+            this.btnAgregarUser = new System.Windows.Forms.Button();
             this.tpgEstadisticas = new System.Windows.Forms.TabPage();
+            this.button12 = new System.Windows.Forms.Button();
+            this.lblReporteareas = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.button8 = new System.Windows.Forms.Button();
             this.tpgBitacora = new System.Windows.Forms.TabPage();
             this.label1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.button7 = new System.Windows.Forms.Button();
             this.textBox2 = new System.Windows.Forms.TextBox();
+            this.button9 = new System.Windows.Forms.Button();
+            this.button10 = new System.Windows.Forms.Button();
+            this.button11 = new System.Windows.Forms.Button();
             this.tpgSesiones = new System.Windows.Forms.TabPage();
             this.tpgAreas = new System.Windows.Forms.TabPage();
             this.label11 = new System.Windows.Forms.Label();
@@ -64,24 +77,13 @@
             this.label10 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
             this.button5 = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.btnBuscarUsuario = new System.Windows.Forms.Button();
-            this.btnActualizar = new System.Windows.Forms.Button();
-            this.btnEliminar = new System.Windows.Forms.Button();
-            this.btnModificarUser = new System.Windows.Forms.Button();
-            this.btnAgregarUser = new System.Windows.Forms.Button();
-            this.button8 = new System.Windows.Forms.Button();
-            this.button7 = new System.Windows.Forms.Button();
-            this.button9 = new System.Windows.Forms.Button();
-            this.button10 = new System.Windows.Forms.Button();
-            this.button11 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
-            this.label5 = new System.Windows.Forms.Label();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.tctAdministracion.SuspendLayout();
             this.tpgUsuarios.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
@@ -305,6 +307,26 @@
             this.btnAyuda.UseVisualStyleBackColor = false;
             this.btnAyuda.Click += new System.EventHandler(this.btnAyuda_Click);
             // 
+            // btnBuscarUsuario
+            // 
+            this.btnBuscarUsuario.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.btnBuscarUsuario.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveCaption;
+            this.btnBuscarUsuario.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.btnBuscarUsuario.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnBuscarUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBuscarUsuario.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.btnBuscarUsuario.Image = ((System.Drawing.Image)(resources.GetObject("btnBuscarUsuario.Image")));
+            this.btnBuscarUsuario.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnBuscarUsuario.Location = new System.Drawing.Point(3, 268);
+            this.btnBuscarUsuario.Name = "btnBuscarUsuario";
+            this.btnBuscarUsuario.Size = new System.Drawing.Size(192, 40);
+            this.btnBuscarUsuario.TabIndex = 5;
+            this.btnBuscarUsuario.Text = "  Buscar Usuario";
+            this.btnBuscarUsuario.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnBuscarUsuario.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btnBuscarUsuario.UseVisualStyleBackColor = false;
+            this.btnBuscarUsuario.Click += new System.EventHandler(this.btnBuscarUsuario_Click);
+            // 
             // txbBuscarUsuario
             // 
             this.txbBuscarUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -313,9 +335,90 @@
             this.txbBuscarUsuario.Size = new System.Drawing.Size(174, 24);
             this.txbBuscarUsuario.TabIndex = 4;
             // 
+            // btnActualizar
+            // 
+            this.btnActualizar.BackColor = System.Drawing.SystemColors.Highlight;
+            this.btnActualizar.FlatAppearance.BorderColor = System.Drawing.SystemColors.Desktop;
+            this.btnActualizar.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.btnActualizar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnActualizar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnActualizar.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.btnActualizar.Image = ((System.Drawing.Image)(resources.GetObject("btnActualizar.Image")));
+            this.btnActualizar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnActualizar.Location = new System.Drawing.Point(0, 440);
+            this.btnActualizar.Name = "btnActualizar";
+            this.btnActualizar.Size = new System.Drawing.Size(200, 41);
+            this.btnActualizar.TabIndex = 3;
+            this.btnActualizar.Text = "Actualizar  ";
+            this.btnActualizar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnActualizar.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
+            this.btnActualizar.UseVisualStyleBackColor = false;
+            this.btnActualizar.Click += new System.EventHandler(this.btnActualizar_Click);
+            // 
+            // btnEliminar
+            // 
+            this.btnEliminar.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.btnEliminar.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveCaption;
+            this.btnEliminar.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.btnEliminar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEliminar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEliminar.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.btnEliminar.Image = global::Gestor_de_Usuarios.Properties.Resources._1407481755_circle_cross1;
+            this.btnEliminar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnEliminar.Location = new System.Drawing.Point(3, 100);
+            this.btnEliminar.Name = "btnEliminar";
+            this.btnEliminar.Size = new System.Drawing.Size(192, 40);
+            this.btnEliminar.TabIndex = 2;
+            this.btnEliminar.Text = "  Eliminar Usuario";
+            this.btnEliminar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btnEliminar.UseVisualStyleBackColor = false;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
+            // 
+            // btnModificarUser
+            // 
+            this.btnModificarUser.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.btnModificarUser.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveCaption;
+            this.btnModificarUser.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.btnModificarUser.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnModificarUser.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnModificarUser.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.btnModificarUser.Image = global::Gestor_de_Usuarios.Properties.Resources._1407482248_cog1;
+            this.btnModificarUser.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnModificarUser.Location = new System.Drawing.Point(4, 146);
+            this.btnModificarUser.Name = "btnModificarUser";
+            this.btnModificarUser.Size = new System.Drawing.Size(192, 40);
+            this.btnModificarUser.TabIndex = 1;
+            this.btnModificarUser.Text = "  Modificar Usuario";
+            this.btnModificarUser.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnModificarUser.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btnModificarUser.UseVisualStyleBackColor = false;
+            this.btnModificarUser.Click += new System.EventHandler(this.btnModificarUser_Click);
+            // 
+            // btnAgregarUser
+            // 
+            this.btnAgregarUser.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.btnAgregarUser.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveCaption;
+            this.btnAgregarUser.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.btnAgregarUser.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnAgregarUser.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAgregarUser.ForeColor = System.Drawing.SystemColors.HighlightText;
+            this.btnAgregarUser.Image = global::Gestor_de_Usuarios.Properties.Resources._1407480710_circle_add1;
+            this.btnAgregarUser.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnAgregarUser.Location = new System.Drawing.Point(3, 54);
+            this.btnAgregarUser.Name = "btnAgregarUser";
+            this.btnAgregarUser.Size = new System.Drawing.Size(192, 40);
+            this.btnAgregarUser.TabIndex = 0;
+            this.btnAgregarUser.Text = "  Agregar Usuario ";
+            this.btnAgregarUser.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnAgregarUser.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btnAgregarUser.UseVisualStyleBackColor = false;
+            this.btnAgregarUser.Click += new System.EventHandler(this.btnAgregarUser_Click);
+            // 
             // tpgEstadisticas
             // 
             this.tpgEstadisticas.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.tpgEstadisticas.Controls.Add(this.button12);
+            this.tpgEstadisticas.Controls.Add(this.lblReporteareas);
             this.tpgEstadisticas.Controls.Add(this.label5);
             this.tpgEstadisticas.Controls.Add(this.button8);
             this.tpgEstadisticas.Location = new System.Drawing.Point(4, 25);
@@ -323,6 +426,49 @@
             this.tpgEstadisticas.Size = new System.Drawing.Size(781, 481);
             this.tpgEstadisticas.TabIndex = 4;
             this.tpgEstadisticas.Text = "Reportes";
+            // 
+            // button12
+            // 
+            this.button12.BackgroundImage = global::Gestor_de_Usuarios.Properties.Resources.evaluar_quickbooks;
+            this.button12.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button12.Location = new System.Drawing.Point(455, 110);
+            this.button12.Name = "button12";
+            this.button12.Size = new System.Drawing.Size(278, 261);
+            this.button12.TabIndex = 3;
+            this.button12.UseVisualStyleBackColor = true;
+            this.button12.Click += new System.EventHandler(this.button12_Click);
+            // 
+            // lblReporteareas
+            // 
+            this.lblReporteareas.AutoSize = true;
+            this.lblReporteareas.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblReporteareas.Location = new System.Drawing.Point(423, 57);
+            this.lblReporteareas.Name = "lblReporteareas";
+            this.lblReporteareas.Size = new System.Drawing.Size(343, 29);
+            this.lblReporteareas.TabIndex = 2;
+            this.lblReporteareas.Text = "Reporte areas mas visitadas";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(73, 57);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(226, 29);
+            this.label5.TabIndex = 1;
+            this.label5.Text = "Reportes usuarios";
+            this.label5.Click += new System.EventHandler(this.label5_Click);
+            // 
+            // button8
+            // 
+            this.button8.BackgroundImage = global::Gestor_de_Usuarios.Properties.Resources.evaluar_quickbooks;
+            this.button8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button8.Location = new System.Drawing.Point(42, 110);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(278, 261);
+            this.button8.TabIndex = 0;
+            this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // tpgBitacora
             // 
@@ -360,6 +506,25 @@
             this.panel2.Size = new System.Drawing.Size(199, 490);
             this.panel2.TabIndex = 4;
             // 
+            // button7
+            // 
+            this.button7.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.button7.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveCaption;
+            this.button7.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button7.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.button7.Image = ((System.Drawing.Image)(resources.GetObject("button7.Image")));
+            this.button7.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button7.Location = new System.Drawing.Point(0, 268);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(192, 40);
+            this.button7.TabIndex = 5;
+            this.button7.Text = "  Buscar";
+            this.button7.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button7.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.button7.UseVisualStyleBackColor = false;
+            // 
             // textBox2
             // 
             this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -367,6 +532,62 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(174, 24);
             this.textBox2.TabIndex = 4;
+            // 
+            // button9
+            // 
+            this.button9.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.button9.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveCaption;
+            this.button9.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button9.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.button9.Image = ((System.Drawing.Image)(resources.GetObject("button9.Image")));
+            this.button9.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button9.Location = new System.Drawing.Point(3, 100);
+            this.button9.Name = "button9";
+            this.button9.Size = new System.Drawing.Size(192, 40);
+            this.button9.TabIndex = 2;
+            this.button9.Text = "  Semana ";
+            this.button9.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.button9.UseVisualStyleBackColor = false;
+            // 
+            // button10
+            // 
+            this.button10.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.button10.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveCaption;
+            this.button10.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.button10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button10.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button10.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.button10.Image = ((System.Drawing.Image)(resources.GetObject("button10.Image")));
+            this.button10.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button10.Location = new System.Drawing.Point(4, 146);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(192, 40);
+            this.button10.TabIndex = 1;
+            this.button10.Text = "  Mes";
+            this.button10.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button10.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.button10.UseVisualStyleBackColor = false;
+            // 
+            // button11
+            // 
+            this.button11.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.button11.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveCaption;
+            this.button11.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.button11.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button11.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button11.ForeColor = System.Drawing.SystemColors.HighlightText;
+            this.button11.Image = ((System.Drawing.Image)(resources.GetObject("button11.Image")));
+            this.button11.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button11.Location = new System.Drawing.Point(3, 54);
+            this.button11.Name = "button11";
+            this.button11.Size = new System.Drawing.Size(192, 40);
+            this.button11.TabIndex = 0;
+            this.button11.Text = "  Hoy";
+            this.button11.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button11.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.button11.UseVisualStyleBackColor = false;
             // 
             // tpgSesiones
             // 
@@ -535,210 +756,6 @@
             this.button5.UseVisualStyleBackColor = false;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
-            // textBox1
-            // 
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(14, 230);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(174, 24);
-            this.textBox1.TabIndex = 6;
-            // 
-            // dataGridView1
-            // 
-            this.dataGridView1.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
-            this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.ControlLightLight;
-            this.dataGridView1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(6, 13);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(574, 293);
-            this.dataGridView1.TabIndex = 3;
-            // 
-            // btnBuscarUsuario
-            // 
-            this.btnBuscarUsuario.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.btnBuscarUsuario.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveCaption;
-            this.btnBuscarUsuario.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.btnBuscarUsuario.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnBuscarUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnBuscarUsuario.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btnBuscarUsuario.Image = ((System.Drawing.Image)(resources.GetObject("btnBuscarUsuario.Image")));
-            this.btnBuscarUsuario.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnBuscarUsuario.Location = new System.Drawing.Point(3, 268);
-            this.btnBuscarUsuario.Name = "btnBuscarUsuario";
-            this.btnBuscarUsuario.Size = new System.Drawing.Size(192, 40);
-            this.btnBuscarUsuario.TabIndex = 5;
-            this.btnBuscarUsuario.Text = "  Buscar Usuario";
-            this.btnBuscarUsuario.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnBuscarUsuario.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btnBuscarUsuario.UseVisualStyleBackColor = false;
-            this.btnBuscarUsuario.Click += new System.EventHandler(this.btnBuscarUsuario_Click);
-            // 
-            // btnActualizar
-            // 
-            this.btnActualizar.BackColor = System.Drawing.SystemColors.Highlight;
-            this.btnActualizar.FlatAppearance.BorderColor = System.Drawing.SystemColors.Desktop;
-            this.btnActualizar.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.btnActualizar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnActualizar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnActualizar.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btnActualizar.Image = ((System.Drawing.Image)(resources.GetObject("btnActualizar.Image")));
-            this.btnActualizar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnActualizar.Location = new System.Drawing.Point(0, 440);
-            this.btnActualizar.Name = "btnActualizar";
-            this.btnActualizar.Size = new System.Drawing.Size(200, 41);
-            this.btnActualizar.TabIndex = 3;
-            this.btnActualizar.Text = "Actualizar  ";
-            this.btnActualizar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnActualizar.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
-            this.btnActualizar.UseVisualStyleBackColor = false;
-            this.btnActualizar.Click += new System.EventHandler(this.btnActualizar_Click);
-            // 
-            // btnEliminar
-            // 
-            this.btnEliminar.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.btnEliminar.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveCaption;
-            this.btnEliminar.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.btnEliminar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnEliminar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEliminar.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btnEliminar.Image = global::Gestor_de_Usuarios.Properties.Resources._1407481755_circle_cross1;
-            this.btnEliminar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnEliminar.Location = new System.Drawing.Point(3, 100);
-            this.btnEliminar.Name = "btnEliminar";
-            this.btnEliminar.Size = new System.Drawing.Size(192, 40);
-            this.btnEliminar.TabIndex = 2;
-            this.btnEliminar.Text = "  Eliminar Usuario";
-            this.btnEliminar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btnEliminar.UseVisualStyleBackColor = false;
-            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
-            // 
-            // btnModificarUser
-            // 
-            this.btnModificarUser.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.btnModificarUser.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveCaption;
-            this.btnModificarUser.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.btnModificarUser.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnModificarUser.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnModificarUser.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btnModificarUser.Image = global::Gestor_de_Usuarios.Properties.Resources._1407482248_cog1;
-            this.btnModificarUser.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnModificarUser.Location = new System.Drawing.Point(4, 146);
-            this.btnModificarUser.Name = "btnModificarUser";
-            this.btnModificarUser.Size = new System.Drawing.Size(192, 40);
-            this.btnModificarUser.TabIndex = 1;
-            this.btnModificarUser.Text = "  Modificar Usuario";
-            this.btnModificarUser.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnModificarUser.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btnModificarUser.UseVisualStyleBackColor = false;
-            this.btnModificarUser.Click += new System.EventHandler(this.btnModificarUser_Click);
-            // 
-            // btnAgregarUser
-            // 
-            this.btnAgregarUser.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.btnAgregarUser.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveCaption;
-            this.btnAgregarUser.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.btnAgregarUser.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAgregarUser.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAgregarUser.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.btnAgregarUser.Image = global::Gestor_de_Usuarios.Properties.Resources._1407480710_circle_add1;
-            this.btnAgregarUser.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnAgregarUser.Location = new System.Drawing.Point(3, 54);
-            this.btnAgregarUser.Name = "btnAgregarUser";
-            this.btnAgregarUser.Size = new System.Drawing.Size(192, 40);
-            this.btnAgregarUser.TabIndex = 0;
-            this.btnAgregarUser.Text = "  Agregar Usuario ";
-            this.btnAgregarUser.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnAgregarUser.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btnAgregarUser.UseVisualStyleBackColor = false;
-            this.btnAgregarUser.Click += new System.EventHandler(this.btnAgregarUser_Click);
-            // 
-            // button8
-            // 
-            this.button8.BackgroundImage = global::Gestor_de_Usuarios.Properties.Resources.evaluar_quickbooks;
-            this.button8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button8.Location = new System.Drawing.Point(239, 127);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(278, 261);
-            this.button8.TabIndex = 0;
-            this.button8.UseVisualStyleBackColor = true;
-            this.button8.Click += new System.EventHandler(this.button8_Click);
-            // 
-            // button7
-            // 
-            this.button7.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.button7.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveCaption;
-            this.button7.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button7.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button7.Image = ((System.Drawing.Image)(resources.GetObject("button7.Image")));
-            this.button7.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button7.Location = new System.Drawing.Point(0, 268);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(192, 40);
-            this.button7.TabIndex = 5;
-            this.button7.Text = "  Buscar";
-            this.button7.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button7.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.button7.UseVisualStyleBackColor = false;
-            // 
-            // button9
-            // 
-            this.button9.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.button9.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveCaption;
-            this.button9.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button9.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button9.Image = ((System.Drawing.Image)(resources.GetObject("button9.Image")));
-            this.button9.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button9.Location = new System.Drawing.Point(3, 100);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(192, 40);
-            this.button9.TabIndex = 2;
-            this.button9.Text = "  Semana ";
-            this.button9.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.button9.UseVisualStyleBackColor = false;
-            // 
-            // button10
-            // 
-            this.button10.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.button10.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveCaption;
-            this.button10.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.button10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button10.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button10.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button10.Image = ((System.Drawing.Image)(resources.GetObject("button10.Image")));
-            this.button10.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button10.Location = new System.Drawing.Point(4, 146);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(192, 40);
-            this.button10.TabIndex = 1;
-            this.button10.Text = "  Mes";
-            this.button10.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button10.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.button10.UseVisualStyleBackColor = false;
-            // 
-            // button11
-            // 
-            this.button11.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.button11.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveCaption;
-            this.button11.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.button11.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button11.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button11.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.button11.Image = ((System.Drawing.Image)(resources.GetObject("button11.Image")));
-            this.button11.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button11.Location = new System.Drawing.Point(3, 54);
-            this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(192, 40);
-            this.button11.TabIndex = 0;
-            this.button11.Text = "  Hoy";
-            this.button11.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button11.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.button11.UseVisualStyleBackColor = false;
-            // 
             // button6
             // 
             this.button6.BackColor = System.Drawing.SystemColors.ActiveCaption;
@@ -757,6 +774,14 @@
             this.button6.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button6.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
             this.button6.UseVisualStyleBackColor = false;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Location = new System.Drawing.Point(14, 230);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(174, 24);
+            this.textBox1.TabIndex = 6;
             // 
             // button1
             // 
@@ -839,15 +864,16 @@
             this.button4.UseVisualStyleBackColor = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
-            // label5
+            // dataGridView1
             // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(316, 50);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(120, 29);
-            this.label5.TabIndex = 1;
-            this.label5.Text = "Reportes";
+            this.dataGridView1.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.ControlLightLight;
+            this.dataGridView1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(6, 13);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.Size = new System.Drawing.Size(574, 293);
+            this.dataGridView1.TabIndex = 3;
             // 
             // wfAdministracion
             // 
@@ -948,6 +974,8 @@
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button8;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Button button12;
+        private System.Windows.Forms.Label lblReporteareas;
     }
 }
 

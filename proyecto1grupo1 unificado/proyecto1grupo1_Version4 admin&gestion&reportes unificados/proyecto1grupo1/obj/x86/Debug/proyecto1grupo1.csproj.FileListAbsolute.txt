@@ -167,5 +167,3 @@ C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\proyecto1grupo1_Version4 admi
 C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\proyecto1grupo1_Version4 admin&gestion&reportes unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.Properties.Resources.resources
 C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\proyecto1grupo1_Version4 admin&gestion&reportes unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.wfTerminal.resources
 C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\proyecto1grupo1_Version4 admin&gestion&reportes unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.csproj.GenerateResource.Cache
-C:\Users\Jessica\Desktop\Turnos\Turnos\proyecto1grupo1 unificado\proyecto1grupo1_Version4 admin&gestion&reportes unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.exe
-C:\Users\Jessica\Desktop\Turnos\Turnos\proyecto1grupo1 unificado\proyecto1grupo1_Version4 admin&gestion&reportes unificados\proyecto1grupo1\obj\x86\Debug\proyecto1grupo1.pdb

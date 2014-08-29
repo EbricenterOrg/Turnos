@@ -180,6 +180,18 @@ namespace Gestor_de_Usuarios
             this.Hide();
         }
 
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            wfReporteareasmasvisistadas frmareasvisitadas = new wfReporteareasmasvisistadas();
+            frmareasvisitadas.Show();
+            this.Hide();
+        }
+
        
        
 

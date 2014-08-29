@@ -67,3 +67,4 @@ C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version fi
 C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\RdlCompile.compiled
 C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.exe
 C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.pdb
+C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfReporteareasmasvisistadas.resources

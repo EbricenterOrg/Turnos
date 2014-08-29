@@ -33,6 +33,26 @@ GROUP BY tabm_usuario.id_usuario</CommandText>
             </Mappings>
             <Sources />
           </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTable2TableAdapter" GeneratorDataComponentClassName="DataTable2TableAdapter" Name="DataTable2" UserDataComponentName="DataTable2TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        COUNT(tabt_turnos.area_id) AS Cuenta_Total, tabm_area.area_nom
+FROM            tabt_turnos, tabm_area
+WHERE        tabt_turnos.area_id = tabm_area.id_area
+GROUP BY tabt_turnos.area_id</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Cuenta_Total" DataSetColumn="Cuenta_Total" />
+              <Mapping SourceColumn="area_nom" DataSetColumn="area_nom" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
         </Tables>
         <Sources />
       </DataSource>
@@ -41,7 +61,7 @@ GROUP BY tabm_usuario.id_usuario</CommandText>
   <xs:element name="dt_dataset" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dt_dataset" msprop:Generator_UserDSName="dt_dataset">
     <xs:complexType>
       <xs:choice minOccurs="0" maxOccurs="unbounded">
-        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent">
           <xs:complexType>
             <xs:sequence>
               <xs:element name="usur_id" msprop:Generator_ColumnVarNameInTable="columnusur_id" msprop:Generator_ColumnPropNameInRow="usur_id" msprop:Generator_ColumnPropNameInTable="usur_idColumn" msprop:Generator_UserColumnName="usur_id">
@@ -75,6 +95,20 @@ GROUP BY tabm_usuario.id_usuario</CommandText>
               <xs:element name="usur_tel" msprop:Generator_ColumnVarNameInTable="columnusur_tel" msprop:Generator_ColumnPropNameInRow="usur_tel" msprop:Generator_ColumnPropNameInTable="usur_telColumn" msprop:Generator_UserColumnName="usur_tel" type="xs:int" minOccurs="0" />
               <xs:element name="Numero_de_Sesion" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnNumero_de_Sesion" msprop:Generator_ColumnPropNameInRow="Numero_de_Sesion" msprop:Generator_ColumnPropNameInTable="Numero_de_SesionColumn" msprop:Generator_UserColumnName="Numero_de_Sesion" type="xs:long" minOccurs="0" />
               <xs:element name="ses_fech_inic" msprop:Generator_ColumnVarNameInTable="columnses_fech_inic" msprop:Generator_ColumnPropNameInRow="ses_fech_inic" msprop:Generator_ColumnPropNameInTable="ses_fech_inicColumn" msprop:Generator_UserColumnName="ses_fech_inic" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DataTable2" msprop:Generator_TableClassName="DataTable2DataTable" msprop:Generator_TableVarName="tableDataTable2" msprop:Generator_TablePropName="DataTable2" msprop:Generator_RowDeletingName="DataTable2RowDeleting" msprop:Generator_RowChangingName="DataTable2RowChanging" msprop:Generator_RowEvHandlerName="DataTable2RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable2RowDeleted" msprop:Generator_UserTableName="DataTable2" msprop:Generator_RowChangedName="DataTable2RowChanged" msprop:Generator_RowEvArgName="DataTable2RowChangeEvent" msprop:Generator_RowClassName="DataTable2Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Cuenta_Total" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnCuenta_Total" msprop:Generator_ColumnPropNameInRow="Cuenta_Total" msprop:Generator_ColumnPropNameInTable="Cuenta_TotalColumn" msprop:Generator_UserColumnName="Cuenta_Total" type="xs:long" minOccurs="0" />
+              <xs:element name="area_nom" msprop:Generator_ColumnVarNameInTable="columnarea_nom" msprop:Generator_ColumnPropNameInRow="area_nom" msprop:Generator_ColumnPropNameInTable="area_nomColumn" msprop:Generator_UserColumnName="area_nom" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
             </xs:sequence>
           </xs:complexType>
         </xs:element>
