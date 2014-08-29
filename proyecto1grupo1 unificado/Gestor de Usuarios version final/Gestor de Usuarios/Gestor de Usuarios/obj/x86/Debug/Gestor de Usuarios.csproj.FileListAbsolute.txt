@@ -1,0 +1,69 @@
+c:\Users\KiraDesktop\Documents\Visual Studio 2010\Projects\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.Form1.resources
+c:\Users\KiraDesktop\Documents\Visual Studio 2010\Projects\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\proyecto_SO.FrmAgregarUsuario.resources
+c:\Users\KiraDesktop\Documents\Visual Studio 2010\Projects\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.Properties.Resources.resources
+c:\Users\KiraDesktop\Documents\Visual Studio 2010\Projects\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.csproj.GenerateResource.Cache
+C:\Documents and Settings\Kira\Escritorio\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kira\Escritorio\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.FrmAdministracion.resources
+C:\Documents and Settings\Kira\Escritorio\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.FrmAgregarUsuarios.resources
+C:\Documents and Settings\Kira\Escritorio\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.Properties.Resources.resources
+C:\Documents and Settings\Kira\Escritorio\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Kira\Escritorio\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Kira\Escritorio\Gestor de Usuarios\Gestor de Usuarios\bin\Debug\Gestor de Usuarios.exe
+C:\Documents and Settings\Kira\Escritorio\Gestor de Usuarios\Gestor de Usuarios\bin\Debug\Gestor de Usuarios.pdb
+C:\Documents and Settings\Kira\Escritorio\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.exe
+C:\Documents and Settings\Kira\Escritorio\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.pdb
+G:\Diseño De Sistemas\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.exe
+G:\Diseño De Sistemas\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.pdb
+C:\Users\OWNER\Desktop\Gestor de Usuarios\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.exe
+C:\Users\OWNER\Desktop\Gestor de Usuarios\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.pdb
+C:\Users\OWNER\Desktop\Gestor de Usuarios\Gestor de Usuarios\Gestor de Usuarios\bin\Debug\Gestor de Usuarios.exe
+C:\Users\OWNER\Desktop\Gestor de Usuarios\Gestor de Usuarios\Gestor de Usuarios\bin\Debug\Gestor de Usuarios.pdb
+C:\Users\OWNER\Desktop\Gestor de Usuarios\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\OWNER\Desktop\Gestor de Usuarios\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.Properties.Resources.resources
+C:\Users\OWNER\Desktop\Gestor de Usuarios\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.csproj.GenerateResource.Cache
+C:\Users\OWNER\Desktop\Gestor de Usuarios\Gestor de Usuarios\Gestor de Usuarios\bin\Debug\Gestor de Usuarios.exe.config
+C:\Users\OWNER\Desktop\Gestor de Usuarios\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfModificarUsuarios.resources
+C:\Users\OWNER\Desktop\Gestor de Usuarios\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfEliminarUsuario.resources
+C:\Users\OWNER\Desktop\Gestor de Usuarios\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfAdministracion.resources
+C:\Users\OWNER\Desktop\Gestor de Usuarios\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfAgregarUsuarios.resources
+C:\Users\OWNER\Desktop\Gestor de Usuarios\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfAgregarArea.resources
+C:\Users\OWNER\Desktop\Gestor de Usuarios\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfEliminarAreacs.resources
+C:\Users\OWNER\Desktop\Gestor de Usuarios\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfModificarArea.resources
+C:\Users\Jessica\Desktop\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\bin\Debug\Gestor de Usuarios.exe.config
+C:\Users\Jessica\Desktop\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.exe
+C:\Users\Jessica\Desktop\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.pdb
+C:\Users\Jessica\Desktop\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\bin\Debug\Gestor de Usuarios.exe
+C:\Users\Jessica\Desktop\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\bin\Debug\Gestor de Usuarios.pdb
+C:\Users\Jessica\Desktop\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\Jessica\Desktop\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfAdministracion.resources
+C:\Users\Jessica\Desktop\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfAgregarArea.resources
+C:\Users\Jessica\Desktop\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfAgregarUsuarios.resources
+C:\Users\Jessica\Desktop\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.Properties.Resources.resources
+C:\Users\Jessica\Desktop\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfDiario.resources
+C:\Users\Jessica\Desktop\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfEliminarAreacs.resources
+C:\Users\Jessica\Desktop\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfEliminarUsuario.resources
+C:\Users\Jessica\Desktop\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfModificarArea.resources
+C:\Users\Jessica\Desktop\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfModificarUsuarios.resources
+C:\Users\Jessica\Desktop\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.csproj.GenerateResource.Cache
+C:\Users\Jessica\Desktop\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\RdlCompile.cache
+C:\Users\Jessica\Desktop\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Jessica\Desktop\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfAyuda.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\bin\Debug\Gestor de Usuarios.exe.config
+C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\bin\Debug\Gestor de Usuarios.exe
+C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\bin\Debug\Gestor de Usuarios.pdb
+C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfAdministracion.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfAgregarArea.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfAgregarUsuarios.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.Properties.Resources.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfAyuda.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfDiario.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfEliminarAreacs.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfEliminarUsuario.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfModificarArea.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor_de_Usuarios.wfModificarUsuarios.resources
+C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.csproj.GenerateResource.Cache
+C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\RdlCompile.cache
+C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.exe
+C:\Users\Jessica\Desktop\proyecto1grupo1 unificado\Gestor de Usuarios version final\Gestor de Usuarios\Gestor de Usuarios\obj\x86\Debug\Gestor de Usuarios.pdb

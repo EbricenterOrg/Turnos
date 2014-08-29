@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dt_dataset" targetNamespace="http://tempuri.org/dt_dataset.xsd" xmlns:mstns="http://tempuri.org/dt_dataset.xsd" xmlns="http://tempuri.org/dt_dataset.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (Settings)" PropertyReference="ApplicationSettings.Gestor_de_Usuarios.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="System.Data.Odbc" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTable1TableAdapter" GeneratorDataComponentClassName="DataTable1TableAdapter" Name="DataTable1" UserDataComponentName="DataTable1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        tabm_sesion.usur_id, tabm_usuario.usur_nom, tabm_usuario.usur_ape, tabm_usuario.usur_dir, tabm_usuario.usur_tel, COUNT(tabm_sesion.id_sesion) 
+                         AS Numero_de_Sesion, tabm_sesion.ses_fech_inic
+FROM            tabm_sesion, tabm_usuario
+WHERE        tabm_sesion.usur_id = tabm_usuario.id_usuario
+GROUP BY tabm_usuario.id_usuario</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="usur_id" DataSetColumn="usur_id" />
+              <Mapping SourceColumn="usur_nom" DataSetColumn="usur_nom" />
+              <Mapping SourceColumn="usur_ape" DataSetColumn="usur_ape" />
+              <Mapping SourceColumn="usur_dir" DataSetColumn="usur_dir" />
+              <Mapping SourceColumn="usur_tel" DataSetColumn="usur_tel" />
+              <Mapping SourceColumn="Numero_de_Sesion" DataSetColumn="Numero_de_Sesion" />
+              <Mapping SourceColumn="ses_fech_inic" DataSetColumn="ses_fech_inic" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dt_dataset" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dt_dataset" msprop:Generator_UserDSName="dt_dataset">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="usur_id" msprop:Generator_ColumnVarNameInTable="columnusur_id" msprop:Generator_ColumnPropNameInRow="usur_id" msprop:Generator_ColumnPropNameInTable="usur_idColumn" msprop:Generator_UserColumnName="usur_id">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="usur_nom" msprop:Generator_ColumnVarNameInTable="columnusur_nom" msprop:Generator_ColumnPropNameInRow="usur_nom" msprop:Generator_ColumnPropNameInTable="usur_nomColumn" msprop:Generator_UserColumnName="usur_nom">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="55" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="usur_ape" msprop:Generator_ColumnVarNameInTable="columnusur_ape" msprop:Generator_ColumnPropNameInRow="usur_ape" msprop:Generator_ColumnPropNameInTable="usur_apeColumn" msprop:Generator_UserColumnName="usur_ape" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="55" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="usur_dir" msprop:Generator_ColumnVarNameInTable="columnusur_dir" msprop:Generator_ColumnPropNameInRow="usur_dir" msprop:Generator_ColumnPropNameInTable="usur_dirColumn" msprop:Generator_UserColumnName="usur_dir" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="usur_tel" msprop:Generator_ColumnVarNameInTable="columnusur_tel" msprop:Generator_ColumnPropNameInRow="usur_tel" msprop:Generator_ColumnPropNameInTable="usur_telColumn" msprop:Generator_UserColumnName="usur_tel" type="xs:int" minOccurs="0" />
+              <xs:element name="Numero_de_Sesion" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnNumero_de_Sesion" msprop:Generator_ColumnPropNameInRow="Numero_de_Sesion" msprop:Generator_ColumnPropNameInTable="Numero_de_SesionColumn" msprop:Generator_UserColumnName="Numero_de_Sesion" type="xs:long" minOccurs="0" />
+              <xs:element name="ses_fech_inic" msprop:Generator_ColumnVarNameInTable="columnses_fech_inic" msprop:Generator_ColumnPropNameInRow="ses_fech_inic" msprop:Generator_ColumnPropNameInTable="ses_fech_inicColumn" msprop:Generator_UserColumnName="ses_fech_inic" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
